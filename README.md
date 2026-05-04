@@ -126,6 +126,7 @@ This prevents hallucinations and ensures consistent, reliable outputs.
 
 ## Project Structure
 
+```
 SmartLedger/
 │
 ├── backend/
@@ -138,19 +139,21 @@ SmartLedger/
 │   │   │   ├── data_loader.py
 │   │   │   └── query_engine.py
 │   │   └── main.py
-│   └── requirements.txt
+│   ├── requirements.txt
 │
 ├── frontend/
 │   ├── src/
 │   │   ├── App.js
-│   │   └── App.css
+│   │   ├── App.css
+│   │   └── ...
+│   ├── public/
 │   └── package.json
 │
-├── .env
+├── docker-compose.yml
+├── .env.example
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## Setup Instructions
 
