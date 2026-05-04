@@ -1,0 +1,1001 @@
+Transaction_ID,Description,Amount,Category,Payment_Method,City,datetime,clean_desc,llm_category,anomaly,anomaly_label
+TXN_00001,APOLLO HOSP,2065.76,Healthcare,UPI,Hyderabad,19-02-2024 18:35,apollo hosp,Healthcare,FALSE,Normal
+TXN_00002,NETMEDS APP,2994.81,Healthcare,Wallet,Ahmedabad,15-07-2024 19:34,netmeds app,Healthcare,FALSE,Normal
+TXN_00003,JIO RECHARGE 8369,1230.62,Utilities,Wallet,Hyderabad,30-10-2024 21:34,jio recharge ,Bills,FALSE,Normal
+TXN_00004,WATER DEPT 4032,548.72,Utilities,Credit Card,Kolkata,07-06-2024 08:38,water dept ,Bills,FALSE,Normal
+TXN_00005,ONLINE COURSE,7788.2,Education,UPI,Bangalore,07-04-2024 07:37,online course,Education,FALSE,Normal
+TXN_00006,TUITION FEES 2321,5823.63,Education,Debit Card,Ahmedabad,11-09-2024 08:44,tuition fees ,Education,FALSE,Normal
+TXN_00007,ZOMATO APP 6328,326.71,Food & Beverage,Debit Card,Lucknow,13-09-2024 16:50,zomato app ,Food & Beverage,FALSE,Normal
+TXN_00008,SUBWAY MRT STN 4981,431.83,Food & Beverage,Wallet,Kolkata,15-02-2024 23:15,subway mrt stn ,Food & Beverage,FALSE,Normal
+TXN_00009,ELECTRICITY BOARD,831.17,Utilities,Debit Card,Mumbai,19-05-2024 09:41,electricity board,Bills,FALSE,Normal
+TXN_00010,ADOBE CLOUD,388.15,Subscriptions,Debit Card,Bangalore,06-05-2024 18:37,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00011,SWIGGY DELIVERY 4570,152.78,Food & Beverage,Net Banking,Delhi,24-02-2024 15:12,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00012,AJIO FASHION 5615 XYZ574,2767.75,Shopping,Debit Card,Delhi,11-06-2024 17:35,ajio fashion  xyz,Shopping,FALSE,Normal
+TXN_00013,INSURANCE PREMIUM 1283,3765.63,Financial,Wallet,Bangalore,28-10-2024 20:13,insurance premium ,Bills,FALSE,Normal
+TXN_00014,SPOTIFY SUB,240.58,Subscriptions,Net Banking,Chennai,16-11-2024 19:36,spotify sub,Subscriptions,FALSE,Normal
+TXN_00015,INVESTMENT APP,1729.01,Financial,Unknown,Mumbai,13-08-2024 23:12,investment app,Financial,FALSE,Normal
+TXN_00016,DOMINOS PZ,220.97,Food & Beverage,UPI,Lucknow,16-07-2024 09:18,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00017,ELECTRICITY BOARD,1744.1,Utilities,Wallet,Bangalore,13-11-2024 20:21,electricity board,Bills,FALSE,Normal
+TXN_00018,AUDIBLE AUDIO 8210,530.62,Subscriptions,Net Banking,Delhi,09-07-2024 13:58,audible audio ,Subscriptions,FALSE,Normal
+TXN_00019,AUDIBLE AUDIO 1678,184.24,Subscriptions,Debit Card,Jaipur,09-10-2024 15:49,audible audio ,Subscriptions,FALSE,Normal
+TXN_00020,BOOKMYSHOW 6613,1480.14,Entertainment,Net Banking,Bangalore,20-07-2024 07:48,bookmyshow ,Entertainment,FALSE,Normal
+TXN_00021,SPOTIFY SUB 2351,450.45,Subscriptions,Credit Card,Lucknow,26-02-2024 14:08,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00022,ADOBE CLOUD 6274,177.68,Subscriptions,Net Banking,Jaipur,01-02-2024 22:16,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00023,BANK FEE,2964.3,Financial,Wallet,Bangalore,16-01-2024 17:42,bank fee,Financial,FALSE,Normal
+TXN_00024,ONLINE COURSE 1125,4447.76,Education,Net Banking,Kolkata,15-05-2024 12:36,online course ,Education,FALSE,Normal
+TXN_00025,PETROL PUMP 12,557.06,Transportation,Wallet,Bangalore,26-02-2024 08:47,petrol pump ,Transport,FALSE,Normal
+TXN_00026,UDEMY COURSE 5080,3789.2,Education,UPI,Bangalore,20-09-2024 21:24,udemy course ,Education,FALSE,Normal
+TXN_00027,APOLLO PHARMACY 9692,1953.74,Healthcare,UPI,Bangalore,23-01-2024 14:06,apollo pharmacy ,Healthcare,FALSE,Normal
+TXN_00028,PETROL PUMP 12 2966,545.49,Transportation,Debit Card,Lucknow,07-10-2024 07:24,petrol pump  ,Transport,FALSE,Normal
+TXN_00029,METRO CARD REF,412.46,Transportation,UPI,Mumbai,23-11-2024 16:25,metro card ref,Transport,FALSE,Normal
+TXN_00030,ADOBE CLOUD XYZ169,482.35,Subscriptions,Wallet,Hyderabad,13-06-2024 15:48,adobe cloud xyz,Subscriptions,FALSE,Normal
+TXN_00031,GYM MEMBERSHIP 8166,2315.1,Healthcare,Net Banking,Ahmedabad,28-12-2024 08:25,gym membership ,Healthcare,FALSE,Normal
+TXN_00032,SPOTIFY SUB,152.81,Subscriptions,Debit Card,Pune,02-10-2024 22:39,spotify sub,Subscriptions,FALSE,Normal
+TXN_00033,METRO CARD REF 2136,674.29,Transportation,UPI,Lucknow,28-11-2024 10:05,metro card ref ,Transport,FALSE,Normal
+TXN_00034,ICLOUD BACKUP 1991,241.19,Subscriptions,Credit Card,Mumbai,27-03-2024 17:03,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00035,UNIQLO STORE 8343,751.26,Personal Care,Net Banking,Pune,02-10-2024 10:06,uniqlo store ,Shopping,FALSE,Normal
+TXN_00036,ADOBE CLOUD 9483,236.53,Subscriptions,Net Banking,Mumbai,27-10-2024 22:34,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00037,AUDIBLE AUDIO,402.47,Subscriptions,Unknown,Hyderabad,11-09-2024 23:02,audible audio,Subscriptions,FALSE,Normal
+TXN_00038,UDEMY COURSE,2354.87,Education,Wallet,Kolkata,24-01-2024 22:08,udemy course,Education,FALSE,Normal
+TXN_00039,AUDIBLE AUDIO 8164,494.72,Subscriptions,Wallet,Delhi,02-05-2024 13:42,audible audio ,Subscriptions,FALSE,Normal
+TXN_00040,JIO RECHARGE 8983,665.44,Utilities,Credit Card,Jaipur,03-12-2024 22:02,jio recharge ,Bills,FALSE,Normal
+TXN_00041,OLA CAB 5421 5167,32.23,Transportation,UPI,Jaipur,17-03-2024 13:14,ola cab  ,Transport,FALSE,Normal
+TXN_00042,NETMEDS APP 1614,703.91,Healthcare,UPI,Lucknow,17-05-2024 09:24,netmeds app ,Healthcare,FALSE,Normal
+TXN_00043,KFC #123,395.27,Food & Beverage,Net Banking,Bangalore,06-06-2024 22:22,kfc ,Food & Beverage,FALSE,Normal
+TXN_00044,GAMING ARCADE 6753,808.46,Entertainment,Unknown,Bangalore,03-12-2024 10:24,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00045,SPA TREATMENT 3572,1659.15,Personal Care,UPI,Kolkata,30-01-2024 22:31,spa treatment ,Healthcare,FALSE,Normal
+TXN_00046,OLA CAB 5421 6049,223.64,Transportation,Net Banking,Hyderabad,04-05-2024 22:23,ola cab  ,Transport,FALSE,Normal
+TXN_00047,SPOTIFY SUB 8091,304.28,Subscriptions,UPI,Chennai,12-10-2024 19:06,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00048,UDEMY COURSE,8259.22,Education,Net Banking,Pune,08-06-2024 22:06,udemy course,Education,FALSE,Normal
+TXN_00049,JIO RECHARGE 9545,1077.51,Utilities,Credit Card,Chennai,03-03-2024 16:14,jio recharge ,Bills,FALSE,Normal
+TXN_00050,PRIME VIDEO,1373.31,Entertainment,Unknown,Chennai,16-08-2024 14:39,prime video,Entertainment,FALSE,Normal
+TXN_00051,NYKAA BEAUTY 2488,418.28,Shopping,UPI,Ahmedabad,04-12-2024 13:47,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00052,WATER DEPT 2141,1691.22,Utilities,Unknown,Bangalore,23-05-2024 10:35,water dept ,Bills,FALSE,Normal
+TXN_00053,GAMING ARCADE 7909 XYZ184,612.53,Entertainment,UPI,Pune,24-01-2024 23:19,gaming arcade  xyz,Entertainment,FALSE,Normal
+TXN_00054,SPA TREATMENT 8292,1656.18,Personal Care,Net Banking,Hyderabad,03-02-2024 08:22,spa treatment ,Healthcare,FALSE,Normal
+TXN_00055,GAMING ARCADE 1261,9929.91,Entertainment,Debit Card,Kolkata,28-08-2024 11:45,gaming arcade ,Entertainment,TRUE,Anomalous
+TXN_00056,SWIGGY DELIVERY,82.13,Food & Beverage,Unknown,Pune,15-03-2024 23:50,swiggy delivery,Food & Beverage,FALSE,Normal
+TXN_00057,INVESTMENT APP 2197,974.49,Financial,Net Banking,Hyderabad,27-03-2024 07:08,investment app ,Financial,FALSE,Normal
+TXN_00058,SUBWAY MRT STN,268.54,Food & Beverage,Credit Card,Hyderabad,17-06-2024 23:17,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00059,KFC #123 4828,2475.45,Food & Beverage,Debit Card,Chennai,29-09-2024 12:12,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00060,JIO RECHARGE 6925,806.07,Utilities,UPI,Jaipur,15-12-2024 21:16,jio recharge ,Bills,FALSE,Normal
+TXN_00061,RAPIDO BIKE 5705,168.44,Transportation,Net Banking,Pune,23-11-2024 19:21,rapido bike ,Transport,FALSE,Normal
+TXN_00062,SUBWAY MRT STN,80.54,Food & Beverage,Credit Card,Ahmedabad,04-11-2024 16:33,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00063,HOTSTAR SUB,706.99,Entertainment,Net Banking,Ahmedabad,11-02-2024 07:03,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00064,BOOKMYSHOW,721.78,Entertainment,Credit Card,Ahmedabad,15-01-2024 19:37,bookmyshow,Entertainment,FALSE,Normal
+TXN_00065,ZOMATO APP 6260,71.41,Food & Beverage,Debit Card,Ahmedabad,08-09-2024 10:20,zomato app ,Food & Beverage,FALSE,Normal
+TXN_00066,INVESTMENT APP,2700.83,Financial,Net Banking,Mumbai,03-04-2024 10:52,investment app,Financial,FALSE,Normal
+TXN_00067,ONLINE COURSE,4276.92,Education,Wallet,Hyderabad,06-10-2024 13:45,online course,Education,FALSE,Normal
+TXN_00068,NETFLIX SUBS 3746,1192.75,Entertainment,Net Banking,Hyderabad,27-01-2024 22:44,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00069,BSNL BILL 6413,1558.95,Utilities,Unknown,Pune,02-09-2024 15:34,bsnl bill ,Bills,FALSE,Normal
+TXN_00070,BANK FEE 1698,1484.42,Financial,UPI,Ahmedabad,10-01-2024 07:05,bank fee ,Financial,FALSE,Normal
+TXN_00071,UDEMY COURSE,74503.01,Education,Unknown,Hyderabad,18-12-2024 16:01,udemy course,Education,TRUE,Anomalous
+TXN_00072,ICLOUD BACKUP 2770,354,Subscriptions,Credit Card,Kolkata,09-02-2024 17:36,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00073,APOLLO HOSP 5314,2399.98,Healthcare,Debit Card,Lucknow,23-06-2024 23:14,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00074,AUTO RICKSHAW 3656,565.67,Transportation,Net Banking,Kolkata,14-05-2024 15:08,auto rickshaw ,Transport,FALSE,Normal
+TXN_00075,LAKME SALON,1280.85,Personal Care,Wallet,Pune,13-12-2024 21:16,lakme salon,Shopping,FALSE,Normal
+TXN_00076,TUITION FEES 2094,3550.91,Education,Wallet,Hyderabad,23-05-2024 17:56,tuition fees ,Education,FALSE,Normal
+TXN_00077,RAPIDO BIKE,528.36,Transportation,Wallet,Jaipur,16-10-2024 11:28,rapido bike,Transport,FALSE,Normal
+TXN_00078,TUITION FEES 9556,9114.61,Uncategorized,UPI,Lucknow,19-01-2024 08:59,tuition fees ,Education,FALSE,Normal
+TXN_00079,MEDPLUS CHEMIST 2975 XYZ702,1819.4,Healthcare,Wallet,Kolkata,21-05-2024 14:18,medplus chemist  xyz,Healthcare,FALSE,Normal
+TXN_00080,DR SHARMA CLINIC,572.56,Healthcare,Net Banking,Pune,23-06-2024 23:36,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00081,ZOMATO APP 9328,190.06,Food & Beverage,Net Banking,Pune,06-03-2024 07:12,zomato app ,Food & Beverage,FALSE,Normal
+TXN_00082,INTERNET PROVIDER,1769.1,Utilities,Wallet,Jaipur,11-01-2024 13:03,internet provider,Bills,FALSE,Normal
+TXN_00083,ELECTRICITY BOARD 6357,887.11,Utilities,Net Banking,Jaipur,10-08-2024 13:22,electricity board ,Bills,FALSE,Normal
+TXN_00084,INVESTMENT APP 7971,4759.99,Financial,Net Banking,Hyderabad,09-09-2024 09:54,investment app ,Financial,FALSE,Normal
+TXN_00085,UNIQLO STORE,597.09,Uncategorized,Credit Card,Pune,10-06-2024 21:02,uniqlo store,Shopping,FALSE,Normal
+TXN_00086,BOOKMYSHOW,784.41,Entertainment,Wallet,Lucknow,16-08-2024 19:25,bookmyshow,Entertainment,FALSE,Normal
+TXN_00087,MEDPLUS CHEMIST 2507,25173.9,Healthcare,UPI,Ahmedabad,16-03-2024 20:24,medplus chemist ,Healthcare,TRUE,Anomalous
+TXN_00088,PRIME VIDEO 5836,695.45,Entertainment,UPI,Delhi,22-02-2024 12:16,prime video ,Subscriptions,FALSE,Normal
+TXN_00089,SUBWAY MRT STN,225,Food & Beverage,Debit Card,Mumbai,05-07-2024 20:12,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00090,STARBKS 9328,437.07,Food & Beverage,UPI,Delhi,09-10-2024 17:30,starbks ,Food & Beverage,FALSE,Normal
+TXN_00091,UBER TRIP 3155,105.97,Transportation,Net Banking,Bangalore,08-10-2024 19:03,uber trip ,Transport,FALSE,Normal
+TXN_00092,NETMEDS APP 4420,816.44,Healthcare,Credit Card,Chennai,18-07-2024 12:12,netmeds app ,Healthcare,FALSE,Normal
+TXN_00093,RAPIDO BIKE 8519,478.83,Transportation,Debit Card,Ahmedabad,25-09-2024 20:56,rapido bike ,Transport,FALSE,Normal
+TXN_00094,ADOBE CLOUD 4412,114.87,Subscriptions,Credit Card,Delhi,01-10-2024 18:54,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00095,UDEMY COURSE,42639.17,Education,Credit Card,Jaipur,21-02-2024 16:04,udemy course,Education,FALSE,Normal
+TXN_00096,PETROL PUMP 12 3014,35.41,Transportation,UPI,Lucknow,08-02-2024 09:13,petrol pump  ,Transport,FALSE,Normal
+TXN_00097,SALON CUTS 8283 XYZ711,8986.5,Personal Care,Wallet,Hyderabad,08-01-2024 14:39,salon cuts  xyz,Shopping,FALSE,Normal
+TXN_00098,INVESTMENT APP 3513,2895.44,Financial,Wallet,Kolkata,26-05-2024 09:47,investment app ,Financial,FALSE,Normal
+TXN_00099,KFC #123 1810,695.13,Food & Beverage,Credit Card,Bangalore,27-12-2024 19:20,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00100,SKILL SHARE 1142,5229.11,Education,Wallet,Lucknow,18-05-2024 07:47,skill share ,Education,FALSE,Normal
+TXN_00101,COURSERA FEE 8624,2160.32,Education,UPI,Kolkata,28-08-2024 23:26,coursera fee ,Education,FALSE,Normal
+TXN_00102,BANK FEE,2447.12,Financial,Debit Card,Mumbai,21-05-2024 17:13,bank fee,Financial,FALSE,Normal
+TXN_00103,INSURANCE PREMIUM 9723,1268.77,Financial,Credit Card,Ahmedabad,23-02-2024 07:18,insurance premium ,Bills,FALSE,Normal
+TXN_00104,AIRTEL POSTPAID 4739,18843.94,Utilities,Credit Card,Lucknow,14-12-2024 16:47,airtel postpaid ,Bills,TRUE,Anomalous
+TXN_00105,INSURANCE PREMIUM,3546.89,Financial,Wallet,Pune,26-04-2024 16:19,insurance premium,Bills,FALSE,Normal
+TXN_00106,INVESTMENT APP 4449,2174.11,Financial,Debit Card,Pune,24-06-2024 17:54,investment app ,Financial,FALSE,Normal
+TXN_00107,DECATHLON SPORTS 3802,1806.86,Personal Care,Debit Card,Kolkata,12-11-2024 08:48,decathlon sports ,Shopping,FALSE,Normal
+TXN_00108,YOUTUBE PREMIUM 7151,1413.56,Entertainment,Net Banking,Delhi,18-12-2024 09:57,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00109,BOOK STORE 23 3676,8239.91,Education,Credit Card,Pune,01-12-2024 20:43,book store  ,Shopping,FALSE,Normal
+TXN_00110,KFC #123 4181,204.34,Food & Beverage,Wallet,Ahmedabad,07-04-2024 07:52,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00111,COURSERA FEE 2905,2949.18,Education,Net Banking,Mumbai,05-02-2024 10:21,coursera fee ,Education,FALSE,Normal
+TXN_00112,MEDPLUS CHEMIST 3189,1017.29,Healthcare,Wallet,Lucknow,24-12-2024 22:41,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00113,DR SHARMA CLINIC 9958,1078.39,Healthcare,Net Banking,Lucknow,04-10-2024 22:09,dr sharma clinic ,Healthcare,FALSE,Normal
+TXN_00114,ADOBE CLOUD,244.32,Subscriptions,Net Banking,Mumbai,25-11-2024 18:21,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00115,SKILL SHARE 2780,8017.67,Education,Net Banking,Chennai,07-04-2024 09:21,skill share ,Education,FALSE,Normal
+TXN_00116,KFC #123 1413,1974.87,Food & Beverage,UPI,Mumbai,02-04-2024 21:19,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00117,UBER TRIP 9781,374.03,Transportation,Debit Card,Pune,26-04-2024 11:58,uber trip ,Transport,FALSE,Normal
+TXN_00118,YOUTUBE PREMIUM 5257,887.27,Entertainment,Debit Card,Chennai,29-05-2024 10:08,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00119,SPOTIFY SUB 6708,455.69,Subscriptions,Wallet,Mumbai,04-03-2024 22:26,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00120,LAKME SALON 5107,721.39,Personal Care,UPI,Hyderabad,03-09-2024 11:42,lakme salon ,Shopping,FALSE,Normal
+TXN_00121,OLA CAB 5421 9554,2065.68,Transportation,Wallet,Hyderabad,22-06-2024 14:28,ola cab  ,Transport,FALSE,Normal
+TXN_00122,SPA TREATMENT,874.54,Personal Care,Net Banking,Lucknow,15-12-2024 22:00,spa treatment,Healthcare,FALSE,Normal
+TXN_00123,INVESTMENT APP 2606,1902.77,Financial,Wallet,Jaipur,12-03-2024 22:43,investment app ,Financial,FALSE,Normal
+TXN_00124,ONLINE COURSE 3770,5934.14,Education,Net Banking,Kolkata,10-12-2024 15:37,online course ,Education,FALSE,Normal
+TXN_00125,UDEMY COURSE,2575.06,Education,Net Banking,Lucknow,29-07-2024 12:13,udemy course,Education,FALSE,Normal
+TXN_00126,PRIME VIDEO,964.96,Entertainment,Wallet,Hyderabad,08-02-2024 23:15,prime video,Entertainment,FALSE,Normal
+TXN_00127,NETFLIX SUBS 4232,1477.72,Entertainment,Wallet,Bangalore,06-08-2024 21:50,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00128,DOMINOS PZ,221.24,Food & Beverage,Net Banking,Pune,14-07-2024 19:30,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00129,DECATHLON SPORTS 4238,858.56,Personal Care,Net Banking,Jaipur,11-02-2024 09:47,decathlon sports ,Shopping,FALSE,Normal
+TXN_00130,UNIQLO STORE 5517,494.92,Personal Care,UPI,Bangalore,21-08-2024 17:04,uniqlo store ,Shopping,FALSE,Normal
+TXN_00131,MYNTRA APP 3414,888.73,Shopping,UPI,Bangalore,28-01-2024 10:52,myntra app ,Shopping,FALSE,Normal
+TXN_00132,ICLOUD BACKUP 2549,175.9,Subscriptions,UPI,Pune,15-02-2024 10:41,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00133,SPA TREATMENT,12486.82,Personal Care,Net Banking,Kolkata,30-08-2024 16:22,spa treatment,Healthcare,FALSE,Normal
+TXN_00134,APOLLO PHARMACY,2381.17,Healthcare,Net Banking,Chennai,24-09-2024 09:38,apollo pharmacy,Healthcare,FALSE,Normal
+TXN_00135,METRO CARD REF 3306 XYZ306,302.23,Transportation,Debit Card,Pune,04-05-2024 16:46,metro card ref  xyz,Transport,FALSE,Normal
+TXN_00136,INSURANCE PREMIUM 3317,2035.93,Financial,Net Banking,Chennai,11-01-2024 16:43,insurance premium ,Bills,FALSE,Normal
+TXN_00137,Unknown Transaction,144.61,Financial,Net Banking,Pune,07-07-2024 21:06,unknown transaction,Financial,FALSE,Normal
+TXN_00138,YOUTUBE PREMIUM,964.19,Entertainment,Debit Card,Hyderabad,13-11-2024 23:32,youtube premium,Subscriptions,FALSE,Normal
+TXN_00139,UDEMY COURSE 9105,89658.65,Education,Debit Card,Kolkata,11-06-2024 19:08,udemy course ,Education,TRUE,Anomalous
+TXN_00140,SALON CUTS 8504,401.82,Personal Care,Credit Card,Chennai,13-02-2024 16:54,salon cuts ,Shopping,FALSE,Normal
+TXN_00141,ELECTRICITY BOARD 7949,16177.52,Utilities,Wallet,Delhi,21-01-2024 12:47,electricity board ,Bills,TRUE,Anomalous
+TXN_00142,RELIANCE MKT 4792,33163.95,Shopping,UPI,Delhi,26-02-2024 18:12,reliance mkt ,Shopping,TRUE,Anomalous
+TXN_00143,SALON CUTS 4983,206.34,Personal Care,Net Banking,Lucknow,11-01-2024 15:03,salon cuts ,Shopping,FALSE,Normal
+TXN_00144,SPA TREATMENT,466.19,Personal Care,UPI,Pune,14-06-2024 23:58,spa treatment,Healthcare,FALSE,Normal
+TXN_00145,MUTUAL FUND,3723.1,Financial,Net Banking,Ahmedabad,19-07-2024 21:35,mutual fund,Financial,FALSE,Normal
+TXN_00146,AMZ MKTP,3840.25,Shopping,Wallet,Bangalore,17-05-2024 18:25,amz mktp,Shopping,FALSE,Normal
+TXN_00147,PRIME VIDEO 3117,1064.85,Entertainment,Credit Card,Lucknow,17-09-2024 07:58,prime video ,Subscriptions,FALSE,Normal
+TXN_00148,MUTUAL FUND 3623,218.89,Financial,Net Banking,Pune,18-10-2024 17:31,mutual fund ,Financial,FALSE,Normal
+TXN_00149,RAPIDO BIKE 8728,555.57,Transportation,Credit Card,Pune,22-10-2024 17:52,rapido bike ,Transport,FALSE,Normal
+TXN_00150,DOMINOS PZ 3073,167.65,Food & Beverage,UPI,Pune,10-06-2024 16:14,dominos pz ,Food & Beverage,FALSE,Normal
+TXN_00151,APOLLO HOSP 5275,2889.69,Healthcare,Credit Card,Delhi,28-10-2024 21:14,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00152,GYM MEMBERSHIP 1480,2089.14,Healthcare,Credit Card,Chennai,01-04-2024 21:36,gym membership ,Healthcare,FALSE,Normal
+TXN_00153,BANK FEE 3353,3830.55,Financial,UPI,Lucknow,22-02-2024 20:59,bank fee ,Financial,FALSE,Normal
+TXN_00154,BANK FEE 1450,3428.83,Financial,Net Banking,Ahmedabad,30-10-2024 14:22,bank fee ,Financial,FALSE,Normal
+TXN_00155,McDONALDS 4521,482.27,Food & Beverage,Wallet,Hyderabad,01-08-2024 10:00,mcdonalds ,Food & Beverage,FALSE,Normal
+TXN_00156,INVESTMENT APP XYZ373,1396.88,Financial,Unknown,Pune,08-03-2024 16:21,investment app xyz,Financial,FALSE,Normal
+TXN_00157,MUTUAL FUND,29649.87,Financial,Wallet,Chennai,13-09-2024 17:28,mutual fund,Financial,FALSE,Normal
+TXN_00158,SWIGGY DELIVERY 8908,2702.56,Food & Beverage,Debit Card,Lucknow,12-08-2024 14:28,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00159,LAKME SALON,5968.89,Personal Care,Net Banking,Bangalore,11-10-2024 12:18,lakme salon,Shopping,FALSE,Normal
+TXN_00160,SPA TREATMENT,1176.56,Personal Care,Credit Card,Lucknow,24-03-2024 12:15,spa treatment,Healthcare,FALSE,Normal
+TXN_00161,AJIO FASHION 1825,1650.6,Shopping,Debit Card,Hyderabad,21-04-2024 20:14,ajio fashion ,Shopping,FALSE,Normal
+TXN_00162,HOTSTAR SUB,987.9,Entertainment,Wallet,Lucknow,05-05-2024 16:21,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00163,SPA TREATMENT 1884,1063.87,Personal Care,Debit Card,Jaipur,20-04-2024 17:47,spa treatment ,Healthcare,FALSE,Normal
+TXN_00164,WATER DEPT 1399,1058.41,Utilities,Wallet,Lucknow,15-12-2024 09:46,water dept ,Bills,FALSE,Normal
+TXN_00165,AJIO FASHION XYZ979,2575.21,Shopping,Net Banking,Mumbai,26-04-2024 23:35,ajio fashion xyz,Shopping,FALSE,Normal
+TXN_00166,APOLLO PHARMACY 8174,1055.03,Healthcare,Wallet,Pune,06-02-2024 20:21,apollo pharmacy ,Healthcare,FALSE,Normal
+TXN_00167,FLIPKRT.COM 9389,4612.61,Shopping,Wallet,Chennai,23-12-2024 14:39,flipkrtcom ,Shopping,FALSE,Normal
+TXN_00168,RAPIDO BIKE 3048,571.01,Transportation,Credit Card,Chennai,25-01-2024 15:54,rapido bike ,Transport,FALSE,Normal
+TXN_00169,APOLLO PHARMACY,20288.07,Healthcare,Debit Card,Hyderabad,16-09-2024 18:16,apollo pharmacy,Healthcare,FALSE,Normal
+TXN_00170,MEDPLUS CHEMIST 4829,1283.21,Healthcare,UPI,Lucknow,24-11-2024 07:22,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00171,WATER DEPT 8749,1081.43,Utilities,Wallet,Pune,20-05-2024 23:37,water dept ,Bills,FALSE,Normal
+TXN_00172,KFC #123 9939,374.56,Food & Beverage,Wallet,Bangalore,29-02-2024 09:48,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00173,ADOBE CLOUD,267.08,Subscriptions,Debit Card,Hyderabad,02-01-2024 15:30,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00174,BOOK STORE 23 9972,4532.4,Education,Debit Card,Lucknow,19-06-2024 08:25,book store  ,Shopping,FALSE,Normal
+TXN_00175,ZOMATO APP 6496,195.31,Food & Beverage,Debit Card,Kolkata,09-10-2024 14:21,zomato app ,Food & Beverage,FALSE,Normal
+TXN_00176,SPOTIFY SUB 8084,214.47,Subscriptions,UPI,Bangalore,12-04-2024 21:13,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00177,LAKME SALON 7707,955.24,Personal Care,Wallet,Ahmedabad,02-04-2024 22:42,lakme salon ,Shopping,FALSE,Normal
+TXN_00178,METRO CARD REF 7159,688.82,Transportation,Wallet,Chennai,18-03-2024 23:44,metro card ref ,Transport,FALSE,Normal
+TXN_00179,SWIGGY DELIVERY 2896,337.35,Food & Beverage,Net Banking,Jaipur,02-01-2024 15:34,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00180,AMZ MKTP 8473,2496.91,Shopping,UPI,Pune,27-03-2024 20:37,amz mktp ,Shopping,FALSE,Normal
+TXN_00181,METRO CARD REF 8578,622.5,Transportation,Credit Card,Jaipur,07-04-2024 19:03,metro card ref ,Transport,FALSE,Normal
+TXN_00182,INTERNET PROVIDER 1693,591.1,Utilities,Debit Card,Kolkata,29-02-2024 20:43,internet provider ,Bills,FALSE,Normal
+TXN_00183,BOOKMYSHOW 1134,197.17,Uncategorized,Credit Card,Pune,13-01-2024 17:41,bookmyshow ,Entertainment,FALSE,Normal
+TXN_00184,UNIQLO STORE 3174,1284.98,Personal Care,UPI,Ahmedabad,26-06-2024 14:04,uniqlo store ,Shopping,FALSE,Normal
+TXN_00185,SALON CUTS 4735,2698.23,Personal Care,Wallet,Kolkata,12-07-2024 08:37,salon cuts ,Shopping,FALSE,Normal
+TXN_00186,DOMINOS PZ 6876,117.67,Food & Beverage,Net Banking,Jaipur,18-08-2024 08:48,dominos pz ,Food & Beverage,FALSE,Normal
+TXN_00187,LAKME SALON 4661,1463.3,Personal Care,Credit Card,Lucknow,22-01-2024 07:16,lakme salon ,Shopping,FALSE,Normal
+TXN_00188,INVESTMENT APP 6369,183.47,Financial,Debit Card,Hyderabad,11-03-2024 11:16,investment app ,Financial,FALSE,Normal
+TXN_00189,SPA TREATMENT,1748.77,Personal Care,Wallet,Chennai,19-06-2024 12:28,spa treatment,Healthcare,FALSE,Normal
+TXN_00190,ELECTRICITY BOARD 9367 XYZ677,1411.21,Utilities,Credit Card,Mumbai,29-11-2024 08:55,electricity board  xyz,Bills,FALSE,Normal
+TXN_00191,MUTUAL FUND,1395.9,Financial,Credit Card,Mumbai,06-09-2024 07:05,mutual fund,Financial,FALSE,Normal
+TXN_00192,GYM MEMBERSHIP 5807,2092.51,Healthcare,Debit Card,Kolkata,28-06-2024 23:25,gym membership ,Healthcare,FALSE,Normal
+TXN_00193,GAMING ARCADE 4700,320.42,Entertainment,Credit Card,Lucknow,23-03-2024 12:01,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00194,MUTUAL FUND,4160.48,Financial,Credit Card,Bangalore,16-09-2024 11:14,mutual fund,Financial,FALSE,Normal
+TXN_00195,ICLOUD BACKUP 6223,101.56,Subscriptions,UPI,Lucknow,06-08-2024 13:20,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00196,WATER DEPT,800.72,Utilities,Net Banking,Chennai,13-08-2024 23:31,water dept,Bills,FALSE,Normal
+TXN_00197,INVESTMENT APP 5603,2732.18,Financial,Credit Card,Ahmedabad,23-02-2024 09:37,investment app ,Financial,FALSE,Normal
+TXN_00198,SUBWAY MRT STN 6102,4259.7,Food & Beverage,Credit Card,Pune,19-01-2024 17:44,subway mrt stn ,Food & Beverage,TRUE,Anomalous
+TXN_00199,JIO RECHARGE 7588,999.59,Utilities,Credit Card,Ahmedabad,24-06-2024 20:42,jio recharge ,Bills,FALSE,Normal
+TXN_00200,SPOTIFY SUB,463.26,Subscriptions,UPI,Lucknow,24-07-2024 14:17,spotify sub,Subscriptions,FALSE,Normal
+TXN_00201,BANK FEE 7499,49604.24,Uncategorized,UPI,Kolkata,03-11-2024 08:35,bank fee ,Financial,TRUE,Anomalous
+TXN_00202,INVESTMENT APP,2429.22,Uncategorized,Credit Card,Jaipur,11-08-2024 17:52,investment app,Financial,FALSE,Normal
+TXN_00203,DECATHLON SPORTS 3901,15383.52,Personal Care,Debit Card,Mumbai,31-05-2024 13:06,decathlon sports ,Shopping,FALSE,Normal
+TXN_00204,NETFLIX SUBS,312.26,Entertainment,Net Banking,Lucknow,06-10-2024 12:49,netflix subs,Subscriptions,FALSE,Normal
+TXN_00205,LAKME SALON 3503,3242.91,Personal Care,Credit Card,Mumbai,11-07-2024 18:39,lakme salon ,Shopping,FALSE,Normal
+TXN_00206,APOLLO HOSP 6980,1839.32,Healthcare,Credit Card,Pune,14-08-2024 15:30,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00207,HOTSTAR SUB 8628,657.49,Entertainment,Net Banking,Kolkata,21-08-2024 13:41,hotstar sub ,Subscriptions,FALSE,Normal
+TXN_00208,SKILL SHARE 4487,6724.76,Education,Net Banking,Kolkata,22-08-2024 19:49,skill share ,Education,FALSE,Normal
+TXN_00209,INTERNET PROVIDER 5517,1807.21,Utilities,Wallet,Bangalore,08-05-2024 09:56,internet provider ,Bills,FALSE,Normal
+TXN_00210,DECATHLON SPORTS 7537,1051.12,Personal Care,Credit Card,Kolkata,04-03-2024 22:53,decathlon sports ,Shopping,FALSE,Normal
+TXN_00211,WATER DEPT 1692,738.82,Utilities,Credit Card,Bangalore,15-07-2024 15:42,water dept ,Bills,FALSE,Normal
+TXN_00212,GAMING ARCADE 3259,649.29,Entertainment,Wallet,Pune,09-04-2024 16:30,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00213,DECATHLON SPORTS 9315,377.12,Personal Care,Debit Card,Hyderabad,26-09-2024 21:08,decathlon sports ,Shopping,FALSE,Normal
+TXN_00214,INSURANCE PREMIUM 8684,1191.57,Financial,Net Banking,Delhi,02-03-2024 20:15,insurance premium ,Bills,FALSE,Normal
+TXN_00215,INTERNET PROVIDER,523.88,Utilities,Wallet,Delhi,04-03-2024 22:22,internet provider,Bills,FALSE,Normal
+TXN_00216,AUDIBLE AUDIO,485.16,Subscriptions,UPI,Chennai,27-05-2024 11:07,audible audio,Subscriptions,FALSE,Normal
+TXN_00217,GAMING ARCADE 8836,873.5,Entertainment,UPI,Bangalore,24-03-2024 23:30,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00218,BOOK STORE 23 3409,7627.66,Education,UPI,Chennai,28-01-2024 15:44,book store  ,Shopping,FALSE,Normal
+TXN_00219,DECATHLON SPORTS 6937,200.47,Personal Care,Credit Card,Kolkata,21-07-2024 13:28,decathlon sports ,Shopping,FALSE,Normal
+TXN_00220,APOLLO PHARMACY 1527,1973.26,Healthcare,Net Banking,Ahmedabad,26-07-2024 16:14,apollo pharmacy ,Healthcare,FALSE,Normal
+TXN_00221,AUDIBLE AUDIO,150.08,Subscriptions,Wallet,Kolkata,16-03-2024 14:01,audible audio,Subscriptions,FALSE,Normal
+TXN_00222,DECATHLON SPORTS,1170.48,Personal Care,UPI,Chennai,23-04-2024 07:00,decathlon sports,Shopping,FALSE,Normal
+TXN_00223,BANK FEE XYZ870,4901.11,Financial,Debit Card,Hyderabad,23-02-2024 17:34,bank fee xyz,Financial,FALSE,Normal
+TXN_00224,METRO CARD REF 3056,375.86,Transportation,UPI,Delhi,08-02-2024 11:10,metro card ref ,Transport,FALSE,Normal
+TXN_00225,DR SHARMA CLINIC,2115.54,Healthcare,Net Banking,Kolkata,17-04-2024 23:06,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00226,INSURANCE PREMIUM 9351,2656.69,Financial,Wallet,Lucknow,03-06-2024 13:26,insurance premium ,Bills,FALSE,Normal
+TXN_00227,INSURANCE PREMIUM,945.63,Financial,Net Banking,Mumbai,17-04-2024 18:24,insurance premium,Bills,FALSE,Normal
+TXN_00228,LAKME SALON 3089,762.56,Personal Care,Debit Card,Chennai,03-04-2024 10:10,lakme salon ,Shopping,FALSE,Normal
+TXN_00229,BOOKMYSHOW,1284.5,Uncategorized,UPI,Delhi,21-10-2024 23:13,bookmyshow,Entertainment,FALSE,Normal
+TXN_00230,SUBWAY MRT STN 6316,375.23,Food & Beverage,Wallet,Lucknow,09-06-2024 20:26,subway mrt stn ,Food & Beverage,FALSE,Normal
+TXN_00231,LAKME SALON 7355,1670.5,Personal Care,Credit Card,Hyderabad,24-11-2024 08:29,lakme salon ,Shopping,FALSE,Normal
+TXN_00232,DR SHARMA CLINIC,1514.84,Healthcare,Wallet,Delhi,08-02-2024 08:32,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00233,UBER TRIP 9315,42.41,Transportation,Net Banking,Delhi,14-06-2024 17:04,uber trip ,Transport,FALSE,Normal
+TXN_00234,UNIQLO STORE,1789.45,Personal Care,Wallet,Lucknow,18-08-2024 16:15,uniqlo store,Shopping,FALSE,Normal
+TXN_00235,DOMINOS PZ,85.49,Food & Beverage,Debit Card,Kolkata,01-02-2024 10:20,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00236,UDEMY COURSE 2583,7564.38,Education,Net Banking,Chennai,19-04-2024 09:59,udemy course ,Education,FALSE,Normal
+TXN_00237,AUTO RICKSHAW,5890.88,Transportation,Net Banking,Pune,21-01-2024 07:22,auto rickshaw,Transport,TRUE,Anomalous
+TXN_00238,YOUTUBE PREMIUM 9139,806.98,Entertainment,Wallet,Lucknow,07-09-2024 13:23,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00239,JIO RECHARGE 3471,1198.25,Utilities,Wallet,Jaipur,18-02-2024 10:23,jio recharge ,Bills,FALSE,Normal
+TXN_00240,SALON CUTS 7485,516.99,Personal Care,Credit Card,Lucknow,09-10-2024 19:20,salon cuts ,Shopping,FALSE,Normal
+TXN_00241,HOTSTAR SUB,305.02,Entertainment,Net Banking,Delhi,07-09-2024 13:15,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00242,NETFLIX SUBS,517.69,Entertainment,Credit Card,Hyderabad,11-05-2024 07:05,netflix subs,Subscriptions,FALSE,Normal
+TXN_00243,GAMING ARCADE 5921 XYZ693,2697.92,Entertainment,Credit Card,Bangalore,02-02-2024 18:58,gaming arcade  xyz,Entertainment,FALSE,Normal
+TXN_00244,NYKAA BEAUTY 4319,674.91,Shopping,UPI,Ahmedabad,12-02-2024 09:19,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00245,ICLOUD BACKUP 3951,64.67,Subscriptions,Debit Card,Jaipur,04-11-2024 19:19,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00246,ADOBE CLOUD 4667,420.47,Subscriptions,Wallet,Lucknow,30-03-2024 20:07,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00247,FLIPKRT.COM 3407,2638.27,Shopping,Net Banking,Delhi,18-12-2024 14:41,flipkrtcom ,Shopping,FALSE,Normal
+TXN_00248,DR SHARMA CLINIC 5693,830.44,Healthcare,Debit Card,Jaipur,09-04-2024 23:19,dr sharma clinic ,Healthcare,FALSE,Normal
+TXN_00249,AJIO FASHION 3515,341.25,Shopping,Net Banking,Pune,03-08-2024 12:32,ajio fashion ,Shopping,FALSE,Normal
+TXN_00250,ONLINE COURSE 6911,8168.51,Education,Debit Card,Bangalore,15-04-2024 09:18,online course ,Education,FALSE,Normal
+TXN_00251,TUITION FEES 6075,2005.59,Education,Net Banking,Jaipur,17-06-2024 19:50,tuition fees ,Education,FALSE,Normal
+TXN_00252,METRO CARD REF 4720,631.3,Transportation,Wallet,Lucknow,10-01-2024 19:16,metro card ref ,Transport,FALSE,Normal
+TXN_00253,AIRTEL POSTPAID 3415,1698.51,Utilities,UPI,Ahmedabad,09-02-2024 17:15,airtel postpaid ,Bills,FALSE,Normal
+TXN_00254,FLIPKRT.COM 5135,376.39,Shopping,Credit Card,Mumbai,01-08-2024 22:10,flipkrtcom ,Shopping,FALSE,Normal
+TXN_00255,APOLLO HOSP 9622,16594.89,Healthcare,Unknown,Pune,23-09-2024 09:19,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00256,SKILL SHARE 3278,6013.4,Education,Debit Card,Bangalore,24-01-2024 18:04,skill share ,Education,FALSE,Normal
+TXN_00257,RAPIDO BIKE,518.82,Transportation,Unknown,Lucknow,12-09-2024 19:39,rapido bike,Transport,FALSE,Normal
+TXN_00258,UNIQLO STORE 7410,773.75,Personal Care,Debit Card,Chennai,22-05-2024 19:19,uniqlo store ,Shopping,FALSE,Normal
+TXN_00259,NETFLIX SUBS,1085.46,Entertainment,Debit Card,Pune,07-09-2024 07:25,netflix subs,Subscriptions,FALSE,Normal
+TXN_00260,LAKME SALON 4435 XYZ808,1641.28,Personal Care,Net Banking,Kolkata,15-05-2024 21:58,lakme salon  xyz,Shopping,FALSE,Normal
+TXN_00261,NYKAA BEAUTY 6019,4589.5,Shopping,Wallet,Delhi,15-10-2024 11:00,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00262,INVESTMENT APP 4552,23954.62,Financial,UPI,Mumbai,22-01-2024 10:29,investment app ,Financial,FALSE,Normal
+TXN_00263,PRIME VIDEO,853.47,Entertainment,Debit Card,Delhi,24-04-2024 23:05,prime video,Entertainment,FALSE,Normal
+TXN_00264,SKILL SHARE,1429.54,Education,Debit Card,Hyderabad,30-01-2024 15:31,skill share,Education,FALSE,Normal
+TXN_00265,COURSERA FEE,5384.03,Education,Net Banking,Pune,21-11-2024 23:40,coursera fee,Education,FALSE,Normal
+TXN_00266,BSNL BILL,1086.55,Utilities,Net Banking,Pune,17-05-2024 09:14,bsnl bill,Bills,FALSE,Normal
+TXN_00267,AJIO FASHION,3905.87,Shopping,UPI,Pune,30-07-2024 12:51,ajio fashion,Shopping,FALSE,Normal
+TXN_00268,BSNL BILL 2810,1897.59,Utilities,Credit Card,Mumbai,03-10-2024 11:51,bsnl bill ,Bills,FALSE,Normal
+TXN_00269,DOMINOS PZ,147.99,Food & Beverage,Net Banking,Pune,26-03-2024 09:46,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00270,KFC #123 7332,339.86,Food & Beverage,Net Banking,Bangalore,11-12-2024 16:59,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00271,BANK FEE 7310,557.1,Financial,UPI,Lucknow,21-06-2024 08:43,bank fee ,Financial,FALSE,Normal
+TXN_00272,SWIGGY DELIVERY 3468,2137.7,Food & Beverage,Credit Card,Bangalore,27-05-2024 19:31,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00273,PETROL PUMP 12 2066,500.86,Transportation,UPI,Hyderabad,25-05-2024 14:28,petrol pump  ,Transport,FALSE,Normal
+TXN_00274,COURSERA FEE 2652 XYZ908,4882.67,Education,Wallet,Hyderabad,08-11-2024 18:25,coursera fee  xyz,Education,FALSE,Normal
+TXN_00275,ONLINE COURSE 8442,73735.02,Education,UPI,Delhi,12-07-2024 21:56,online course ,Education,TRUE,Anomalous
+TXN_00276,INTERNET PROVIDER,900.08,Utilities,Wallet,Kolkata,17-09-2024 16:30,internet provider,Bills,FALSE,Normal
+TXN_00277,SWIGGY DELIVERY 3829,1575.77,Food & Beverage,UPI,Kolkata,08-10-2024 23:07,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00278,AIRTEL POSTPAID 4676,1780.48,Utilities,Wallet,Lucknow,15-01-2024 22:25,airtel postpaid ,Bills,FALSE,Normal
+TXN_00279,SALON CUTS 7782,1055.61,Uncategorized,Credit Card,Mumbai,15-11-2024 17:58,salon cuts ,Shopping,FALSE,Normal
+TXN_00280,BANK FEE 8866,24343.59,Financial,UPI,Pune,05-01-2024 23:45,bank fee ,Financial,FALSE,Normal
+TXN_00281,INVESTMENT APP 5304,4102.42,Uncategorized,Net Banking,Chennai,21-09-2024 14:34,investment app ,Financial,FALSE,Normal
+TXN_00282,INVESTMENT APP,1194.43,Financial,UPI,Chennai,11-08-2024 18:49,investment app,Financial,FALSE,Normal
+TXN_00283,TUITION FEES,5108.92,Education,Wallet,Jaipur,14-05-2024 09:19,tuition fees,Education,FALSE,Normal
+TXN_00284,SALON CUTS,7302.89,Personal Care,Net Banking,Bangalore,26-04-2024 15:56,salon cuts,Shopping,FALSE,Normal
+TXN_00285,NETFLIX SUBS 3788,1106.57,Entertainment,Debit Card,Pune,14-04-2024 21:58,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00286,BSNL BILL,1844.88,Utilities,Net Banking,Chennai,07-06-2024 20:13,bsnl bill,Bills,FALSE,Normal
+TXN_00287,DECATHLON SPORTS 9809,1285.46,Personal Care,Credit Card,Ahmedabad,23-01-2024 16:39,decathlon sports ,Shopping,FALSE,Normal
+TXN_00288,AIRTEL POSTPAID,1713.95,Utilities,Net Banking,Pune,01-08-2024 20:58,airtel postpaid,Bills,FALSE,Normal
+TXN_00289,NYKAA BEAUTY,3976.26,Shopping,Debit Card,Bangalore,09-02-2024 11:47,nykaa beauty,Shopping,FALSE,Normal
+TXN_00290,AIRTEL POSTPAID 5523,572.14,Utilities,Debit Card,Hyderabad,02-09-2024 14:44,airtel postpaid ,Bills,FALSE,Normal
+TXN_00291,METRO CARD REF XYZ457,511.74,Transportation,Debit Card,Jaipur,06-12-2024 19:57,metro card ref xyz,Transport,FALSE,Normal
+TXN_00292,RAPIDO BIKE,317.27,Transportation,UPI,Mumbai,22-05-2024 13:41,rapido bike,Transport,FALSE,Normal
+TXN_00293,SPA TREATMENT,396.9,Personal Care,UPI,Bangalore,16-02-2024 08:16,spa treatment,Healthcare,FALSE,Normal
+TXN_00294,NETFLIX SUBS 5498,1332.56,Entertainment,Debit Card,Bangalore,27-11-2024 15:04,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00295,LAKME SALON 9394,800.35,Personal Care,Debit Card,Chennai,25-05-2024 09:08,lakme salon ,Shopping,FALSE,Normal
+TXN_00296,SKILL SHARE,9833.58,Education,Net Banking,Mumbai,14-04-2024 21:21,skill share,Education,FALSE,Normal
+TXN_00297,FLIPKRT.COM,37916.68,Shopping,UPI,Delhi,09-02-2024 07:17,flipkrtcom,Shopping,TRUE,Anomalous
+TXN_00298,PETROL PUMP 12 6828,550.37,Transportation,UPI,Delhi,20-03-2024 11:41,petrol pump  ,Transport,FALSE,Normal
+TXN_00299,STARBKS 1066,272.02,Food & Beverage,Wallet,Pune,25-04-2024 22:00,starbks ,Food & Beverage,FALSE,Normal
+TXN_00300,STARBKS,118.52,Food & Beverage,Debit Card,Pune,30-07-2024 11:16,starbks,Food & Beverage,FALSE,Normal
+TXN_00301,SALON CUTS XYZ915,1683.77,Personal Care,Net Banking,Kolkata,13-08-2024 16:35,salon cuts xyz,Shopping,FALSE,Normal
+TXN_00302,AMZ MKTP 7518,2707.8,Shopping,Credit Card,Bangalore,16-05-2024 20:55,amz mktp ,Shopping,FALSE,Normal
+TXN_00303,PETROL PUMP 12,482.9,Transportation,Wallet,Hyderabad,18-03-2024 13:07,petrol pump ,Transport,FALSE,Normal
+TXN_00304,BOOKMYSHOW 9997 XYZ522,897.73,Entertainment,UPI,Kolkata,20-10-2024 15:31,bookmyshow  xyz,Entertainment,FALSE,Normal
+TXN_00305,INVESTMENT APP 9590,980.53,Financial,Credit Card,Hyderabad,13-03-2024 10:56,investment app ,Financial,FALSE,Normal
+TXN_00306,JIO RECHARGE 9311,1071.42,Utilities,Debit Card,Delhi,03-11-2024 15:48,jio recharge ,Bills,FALSE,Normal
+TXN_00307,ELECTRICITY BOARD 9822,1413.55,Utilities,Net Banking,Lucknow,23-09-2024 16:30,electricity board ,Bills,FALSE,Normal
+TXN_00308,MUTUAL FUND 2325,828.52,Financial,UPI,Chennai,26-08-2024 15:56,mutual fund ,Financial,FALSE,Normal
+TXN_00309,NYKAA BEAUTY 6487,1082.27,Shopping,Credit Card,Kolkata,18-01-2024 08:49,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00310,BANK FEE 5492,2248.8,Financial,Net Banking,Delhi,11-09-2024 15:46,bank fee ,Financial,FALSE,Normal
+TXN_00311,MUTUAL FUND 7108,1085.96,Financial,Credit Card,Jaipur,15-10-2024 19:57,mutual fund ,Financial,FALSE,Normal
+TXN_00312,PETROL PUMP 12 8819,249.82,Transportation,UPI,Kolkata,02-05-2024 10:39,petrol pump  ,Transport,FALSE,Normal
+TXN_00313,BANK FEE 6658,3678.23,Financial,Debit Card,Hyderabad,04-05-2024 08:59,bank fee ,Financial,FALSE,Normal
+TXN_00314,ZOMATO APP XYZ233,384.38,Food & Beverage,Credit Card,Bangalore,31-05-2024 23:54,zomato app xyz,Food & Beverage,FALSE,Normal
+TXN_00315,AUDIBLE AUDIO,478.37,Subscriptions,UPI,Ahmedabad,02-02-2024 19:42,audible audio,Subscriptions,FALSE,Normal
+TXN_00316,PRIME VIDEO 7336,735.53,Entertainment,Credit Card,Kolkata,12-03-2024 13:10,prime video ,Subscriptions,FALSE,Normal
+TXN_00317,ADOBE CLOUD 6903,288.99,Subscriptions,UPI,Bangalore,08-07-2024 16:32,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00318,BOOKMYSHOW 1796,784.81,Entertainment,Net Banking,Ahmedabad,05-08-2024 20:01,bookmyshow ,Entertainment,FALSE,Normal
+TXN_00319,HOTSTAR SUB,1344.25,Entertainment,UPI,Pune,05-02-2024 07:01,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00320,APOLLO PHARMACY,2102.96,Healthcare,Debit Card,Jaipur,05-10-2024 15:45,apollo pharmacy,Healthcare,FALSE,Normal
+TXN_00321,APOLLO PHARMACY 7397,1844.76,Healthcare,Credit Card,Lucknow,25-02-2024 21:15,apollo pharmacy ,Healthcare,FALSE,Normal
+TXN_00322,AUDIBLE AUDIO 2449,216.77,Subscriptions,Net Banking,Lucknow,21-02-2024 19:51,audible audio ,Subscriptions,FALSE,Normal
+TXN_00323,METRO CARD REF 8386,216.86,Transportation,Credit Card,Mumbai,16-08-2024 16:20,metro card ref ,Transport,FALSE,Normal
+TXN_00324,INTERNET PROVIDER 7674,1977.04,Utilities,Net Banking,Kolkata,10-02-2024 22:11,internet provider ,Bills,FALSE,Normal
+TXN_00325,UNIQLO STORE,16287.78,Personal Care,UPI,Delhi,26-01-2024 08:58,uniqlo store,Shopping,FALSE,Normal
+TXN_00326,MUTUAL FUND,49866.87,Financial,Wallet,Kolkata,19-09-2024 16:55,mutual fund,Financial,TRUE,Anomalous
+TXN_00327,PETROL PUMP 12 6623 XYZ563,261.45,Transportation,Net Banking,Lucknow,04-09-2024 21:57,petrol pump   xyz,Transport,FALSE,Normal
+TXN_00328,SWIGGY DELIVERY,441.51,Food & Beverage,UPI,Chennai,06-11-2024 12:49,swiggy delivery,Food & Beverage,FALSE,Normal
+TXN_00329,ADOBE CLOUD,379.59,Subscriptions,UPI,Kolkata,23-11-2024 10:38,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00330,ICLOUD BACKUP 2780,436.79,Subscriptions,Net Banking,Kolkata,28-03-2024 11:35,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00331,MEDPLUS CHEMIST,2863.15,Healthcare,Debit Card,Bangalore,23-02-2024 21:22,medplus chemist,Healthcare,FALSE,Normal
+TXN_00332,MYNTRA APP,4738.9,Shopping,UPI,Pune,25-05-2024 14:59,myntra app,Shopping,FALSE,Normal
+TXN_00333,ICLOUD BACKUP 5971,406.66,Subscriptions,Debit Card,Ahmedabad,11-10-2024 10:35,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00334,YOUTUBE PREMIUM,743.53,Entertainment,Credit Card,Ahmedabad,30-11-2024 07:38,youtube premium,Subscriptions,FALSE,Normal
+TXN_00335,DR SHARMA CLINIC 4952,28180.22,Healthcare,Credit Card,Bangalore,05-10-2024 09:05,dr sharma clinic ,Healthcare,TRUE,Anomalous
+TXN_00336,MYNTRA APP,453.05,Shopping,Wallet,Lucknow,12-07-2024 09:43,myntra app,Shopping,FALSE,Normal
+TXN_00337,ADOBE CLOUD 5603,90.97,Subscriptions,Credit Card,Hyderabad,23-01-2024 11:28,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00338,WATER DEPT,1982.03,Utilities,Net Banking,Jaipur,30-11-2024 15:28,water dept,Bills,FALSE,Normal
+TXN_00339,BSNL BILL,806.37,Utilities,Net Banking,Lucknow,14-02-2024 15:48,bsnl bill,Bills,FALSE,Normal
+TXN_00340,PRIME VIDEO 5554,102.06,Entertainment,Net Banking,Chennai,09-07-2024 18:13,prime video ,Subscriptions,FALSE,Normal
+TXN_00341,AJIO FASHION 1540 XYZ805,208.47,Shopping,Credit Card,Ahmedabad,02-02-2024 12:33,ajio fashion  xyz,Shopping,FALSE,Normal
+TXN_00342,UDEMY COURSE 5868,2199.53,Education,Wallet,Mumbai,06-08-2024 23:42,udemy course ,Education,FALSE,Normal
+TXN_00343,ONLINE COURSE,3765.55,Education,Debit Card,Pune,22-09-2024 09:29,online course,Education,FALSE,Normal
+TXN_00344,AMZ MKTP 8232,43667.88,Shopping,UPI,Ahmedabad,26-11-2024 22:47,amz mktp ,Shopping,TRUE,Anomalous
+TXN_00345,AUTO RICKSHAW 5946,129.72,Uncategorized,UPI,Ahmedabad,20-06-2024 22:05,auto rickshaw ,Transport,FALSE,Normal
+TXN_00346,UDEMY COURSE 6105,6277.28,Education,Wallet,Mumbai,16-04-2024 17:21,udemy course ,Education,FALSE,Normal
+TXN_00347,UNIQLO STORE,1503.44,Personal Care,Wallet,Pune,31-01-2024 21:17,uniqlo store,Shopping,FALSE,Normal
+TXN_00348,AJIO FASHION,1363.11,Shopping,UPI,Hyderabad,25-12-2024 21:47,ajio fashion,Shopping,FALSE,Normal
+TXN_00349,INVESTMENT APP 3358,4983.01,Financial,Net Banking,Jaipur,01-06-2024 21:46,investment app ,Financial,FALSE,Normal
+TXN_00350,JIO RECHARGE,1887.2,Utilities,Debit Card,Mumbai,21-02-2024 14:53,jio recharge,Bills,FALSE,Normal
+TXN_00351,INSURANCE PREMIUM 5030,2635.36,Financial,Debit Card,Delhi,16-05-2024 13:48,insurance premium ,Bills,FALSE,Normal
+TXN_00352,INSURANCE PREMIUM,1081.81,Financial,Debit Card,Kolkata,08-08-2024 20:18,insurance premium,Bills,FALSE,Normal
+TXN_00353,RELIANCE MKT,665.51,Shopping,Credit Card,Chennai,08-01-2024 14:47,reliance mkt,Shopping,FALSE,Normal
+TXN_00354,LAKME SALON 5564,1044.84,Personal Care,UPI,Delhi,22-12-2024 18:11,lakme salon ,Shopping,FALSE,Normal
+TXN_00355,INSURANCE PREMIUM,3676.7,Financial,Wallet,Bangalore,14-11-2024 19:29,insurance premium,Bills,FALSE,Normal
+TXN_00356,ZOMATO APP 6862,469.78,Food & Beverage,Credit Card,Lucknow,18-10-2024 15:35,zomato app ,Food & Beverage,FALSE,Normal
+TXN_00357,MYNTRA APP 8339,3815.97,Shopping,UPI,Chennai,23-04-2024 15:05,myntra app ,Shopping,FALSE,Normal
+TXN_00358,BSNL BILL 5684,1617.94,Utilities,Net Banking,Delhi,26-03-2024 15:04,bsnl bill ,Bills,FALSE,Normal
+TXN_00359,SKILL SHARE,1446.44,Education,Wallet,Lucknow,12-05-2024 22:19,skill share,Education,FALSE,Normal
+TXN_00360,NETMEDS APP 9480,1526.32,Healthcare,Wallet,Ahmedabad,10-01-2024 19:50,netmeds app ,Healthcare,FALSE,Normal
+TXN_00361,UNIQLO STORE 4466,756.64,Uncategorized,Wallet,Ahmedabad,25-08-2024 19:39,uniqlo store ,Shopping,FALSE,Normal
+TXN_00362,SWIGGY DELIVERY,187.75,Food & Beverage,Debit Card,Hyderabad,15-03-2024 21:24,swiggy delivery,Food & Beverage,FALSE,Normal
+TXN_00363,BOOK STORE 23 2174,7285.63,Education,UPI,Pune,28-06-2024 11:40,book store  ,Shopping,FALSE,Normal
+TXN_00364,ADOBE CLOUD,440.39,Subscriptions,Net Banking,Mumbai,06-07-2024 21:12,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00365,ADOBE CLOUD 5704,448.12,Subscriptions,UPI,Kolkata,22-10-2024 07:15,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00366,ICLOUD BACKUP 1642,51.46,Subscriptions,UPI,Jaipur,12-08-2024 14:28,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00367,AJIO FASHION 2791,4399.99,Shopping,Net Banking,Chennai,11-03-2024 22:22,ajio fashion ,Shopping,FALSE,Normal
+TXN_00368,INVESTMENT APP 7595,3917.17,Financial,Credit Card,Jaipur,28-08-2024 07:14,investment app ,Financial,FALSE,Normal
+TXN_00369,ELECTRICITY BOARD 1722,1429.78,Utilities,Net Banking,Chennai,02-01-2024 17:09,electricity board ,Bills,FALSE,Normal
+TXN_00370,YOUTUBE PREMIUM 6132,1479.27,Entertainment,UPI,Kolkata,13-12-2024 19:24,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00371,INVESTMENT APP 2557 XYZ636,3091.69,Financial,Net Banking,Mumbai,21-08-2024 20:02,investment app  xyz,Financial,FALSE,Normal
+TXN_00372,AJIO FASHION 4231,3019.73,Shopping,Credit Card,Chennai,07-08-2024 07:17,ajio fashion ,Shopping,FALSE,Normal
+TXN_00373,AIRTEL POSTPAID 4979,861.33,Utilities,UPI,Bangalore,01-04-2024 14:45,airtel postpaid ,Bills,FALSE,Normal
+TXN_00374,SPOTIFY SUB 3445,418.63,Uncategorized,Wallet,Bangalore,22-09-2024 21:59,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00375,ADOBE CLOUD 5062,177.1,Subscriptions,Debit Card,Ahmedabad,21-08-2024 09:27,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00376,ICLOUD BACKUP,322.38,Subscriptions,Net Banking,Lucknow,07-08-2024 17:54,icloud backup,Subscriptions,FALSE,Normal
+TXN_00377,TUITION FEES,4524.52,Education,Net Banking,Pune,04-09-2024 16:32,tuition fees,Education,FALSE,Normal
+TXN_00378,ONLINE COURSE 7558,9614.55,Education,Debit Card,Kolkata,17-01-2024 16:10,online course ,Education,FALSE,Normal
+TXN_00379,SALON CUTS 8041,691.6,Personal Care,Debit Card,Ahmedabad,03-11-2024 09:28,salon cuts ,Shopping,FALSE,Normal
+TXN_00380,STARBKS 9019,52.35,Food & Beverage,Unknown,Jaipur,12-03-2024 16:44,starbks ,Food & Beverage,FALSE,Normal
+TXN_00381,STARBKS,340.5,Food & Beverage,Debit Card,Bangalore,03-05-2024 13:19,starbks,Food & Beverage,FALSE,Normal
+TXN_00382,UNIQLO STORE 9931,725.8,Personal Care,Credit Card,Pune,27-10-2024 12:11,uniqlo store ,Shopping,FALSE,Normal
+TXN_00383,MEDPLUS CHEMIST,2257.76,Healthcare,Net Banking,Lucknow,06-03-2024 16:45,medplus chemist,Healthcare,FALSE,Normal
+TXN_00384,ICLOUD BACKUP,268.76,Subscriptions,Debit Card,Chennai,24-03-2024 07:10,icloud backup,Subscriptions,FALSE,Normal
+TXN_00385,NETMEDS APP 6328,1157.86,Healthcare,Credit Card,Chennai,25-09-2024 21:27,netmeds app ,Healthcare,FALSE,Normal
+TXN_00386,ONLINE COURSE 1554,3901.1,Education,Debit Card,Pune,23-09-2024 17:20,online course ,Education,FALSE,Normal
+TXN_00387,BSNL BILL 2814,619.29,Utilities,Wallet,Pune,23-04-2024 20:26,bsnl bill ,Bills,FALSE,Normal
+TXN_00388,INSURANCE PREMIUM,3297.61,Financial,Credit Card,Pune,13-05-2024 12:20,insurance premium,Bills,FALSE,Normal
+TXN_00389,DECATHLON SPORTS 6787,725.73,Personal Care,Net Banking,Chennai,29-06-2024 10:18,decathlon sports ,Shopping,FALSE,Normal
+TXN_00390,UNIQLO STORE 9553,1393.64,Personal Care,Wallet,Delhi,07-04-2024 17:24,uniqlo store ,Shopping,FALSE,Normal
+TXN_00391,McDONALDS 4521 7045,1171.57,Food & Beverage,Wallet,Delhi,31-03-2024 21:20,mcdonalds  ,Food & Beverage,FALSE,Normal
+TXN_00392,INSURANCE PREMIUM 9246,4071.46,Financial,Debit Card,Ahmedabad,22-10-2024 11:27,insurance premium ,Bills,FALSE,Normal
+TXN_00393,MYNTRA APP 3074,24539.25,Shopping,Net Banking,Jaipur,24-08-2024 19:31,myntra app ,Shopping,FALSE,Normal
+TXN_00394,MYNTRA APP 4097,1728.23,Shopping,Net Banking,Chennai,28-06-2024 12:21,myntra app ,Shopping,FALSE,Normal
+TXN_00395,NETMEDS APP,1233.78,Healthcare,Credit Card,Lucknow,30-05-2024 14:49,netmeds app,Healthcare,FALSE,Normal
+TXN_00396,AUTO RICKSHAW,409.69,Transportation,Credit Card,Mumbai,04-04-2024 12:28,auto rickshaw,Transport,FALSE,Normal
+TXN_00397,AUTO RICKSHAW 8814,676.17,Transportation,UPI,Delhi,10-11-2024 11:27,auto rickshaw ,Transport,FALSE,Normal
+TXN_00398,KFC #123 7071,478.8,Food & Beverage,Unknown,Kolkata,31-01-2024 07:25,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00399,SKILL SHARE 1984 XYZ771,2969.59,Education,UPI,Lucknow,28-03-2024 08:34,skill share  xyz,Education,FALSE,Normal
+TXN_00400,GYM MEMBERSHIP 6278,2688.92,Healthcare,Wallet,Ahmedabad,07-04-2024 15:59,gym membership ,Healthcare,FALSE,Normal
+TXN_00401,DR SHARMA CLINIC,2950.09,Healthcare,Wallet,Mumbai,22-08-2024 14:38,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00402,LAKME SALON,947.28,Personal Care,Net Banking,Lucknow,10-01-2024 19:02,lakme salon,Shopping,FALSE,Normal
+TXN_00403,OLA CAB 5421 6532,503.29,Transportation,Wallet,Delhi,16-02-2024 18:04,ola cab  ,Transport,FALSE,Normal
+TXN_00404,H&M STORE 45,1976.3,Shopping,UPI,Kolkata,03-11-2024 19:11,hm store ,Shopping,FALSE,Normal
+TXN_00405,SPA TREATMENT 5764,1129.95,Personal Care,UPI,Hyderabad,11-03-2024 14:17,spa treatment ,Healthcare,FALSE,Normal
+TXN_00406,INVESTMENT APP,3192.21,Financial,Net Banking,Delhi,10-08-2024 20:16,investment app,Financial,FALSE,Normal
+TXN_00407,SALON CUTS 5851,399.72,Personal Care,Debit Card,Hyderabad,04-04-2024 10:55,salon cuts ,Shopping,FALSE,Normal
+TXN_00408,BOOKMYSHOW 8696,274.45,Entertainment,Net Banking,Ahmedabad,10-01-2024 21:36,bookmyshow ,Entertainment,FALSE,Normal
+TXN_00409,APOLLO PHARMACY,1276.13,Healthcare,Wallet,Ahmedabad,09-03-2024 20:06,apollo pharmacy,Healthcare,FALSE,Normal
+TXN_00410,McDONALDS 4521 2719,199.91,Food & Beverage,UPI,Lucknow,30-01-2024 16:21,mcdonalds  ,Food & Beverage,FALSE,Normal
+TXN_00411,RELIANCE MKT 3652,11201.39,Shopping,UPI,Ahmedabad,31-01-2024 13:01,reliance mkt ,Shopping,FALSE,Normal
+TXN_00412,Unknown Transaction,19411.78,Education,UPI,Delhi,10-09-2024 20:04,unknown transaction,Financial,FALSE,Normal
+TXN_00413,WATER DEPT 9266 XYZ467,1246.64,Utilities,Net Banking,Jaipur,31-10-2024 21:59,water dept  xyz,Bills,FALSE,Normal
+TXN_00414,MEDPLUS CHEMIST 3571,1352.08,Healthcare,UPI,Mumbai,28-06-2024 17:23,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00415,ELECTRICITY BOARD 6661,836.2,Utilities,Debit Card,Chennai,31-05-2024 13:20,electricity board ,Bills,FALSE,Normal
+TXN_00416,UDEMY COURSE 4456,1248.49,Education,UPI,Chennai,05-01-2024 23:02,udemy course ,Education,FALSE,Normal
+TXN_00417,SPA TREATMENT 5693,230.31,Personal Care,Debit Card,Mumbai,24-11-2024 23:40,spa treatment ,Healthcare,FALSE,Normal
+TXN_00418,TUITION FEES 6986,4093.6,Education,Net Banking,Chennai,02-10-2024 08:59,tuition fees ,Education,FALSE,Normal
+TXN_00419,APOLLO HOSP 7674,2338.95,Uncategorized,Credit Card,Lucknow,02-03-2024 13:46,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00420,OLA CAB 5421,294.56,Transportation,Unknown,Pune,08-11-2024 20:50,ola cab ,Transport,FALSE,Normal
+TXN_00421,UDEMY COURSE 9247,4770.14,Education,Credit Card,Jaipur,01-09-2024 17:33,udemy course ,Education,FALSE,Normal
+TXN_00422,DECATHLON SPORTS 3632,1087.2,Personal Care,Net Banking,Ahmedabad,03-09-2024 08:11,decathlon sports ,Shopping,FALSE,Normal
+TXN_00423,LAKME SALON 9340,827.7,Personal Care,Debit Card,Delhi,14-06-2024 16:14,lakme salon ,Shopping,FALSE,Normal
+TXN_00424,RAPIDO BIKE,443.95,Transportation,Wallet,Bangalore,19-08-2024 09:58,rapido bike,Transport,FALSE,Normal
+TXN_00425,McDONALDS 4521 4852,2151.29,Food & Beverage,Wallet,Hyderabad,04-02-2024 11:24,mcdonalds  ,Food & Beverage,FALSE,Normal
+TXN_00426,BOOK STORE 23 3262,43206.12,Education,UPI,Chennai,30-10-2024 19:52,book store  ,Shopping,TRUE,Anomalous
+TXN_00427,BANK FEE,4329.54,Financial,Wallet,Ahmedabad,10-08-2024 16:21,bank fee,Financial,FALSE,Normal
+TXN_00428,KFC #123,216.55,Food & Beverage,Wallet,Chennai,05-05-2024 21:28,kfc ,Food & Beverage,FALSE,Normal
+TXN_00429,UBER TRIP 8353,840.57,Transportation,Debit Card,Jaipur,26-12-2024 18:27,uber trip ,Transport,FALSE,Normal
+TXN_00430,RAPIDO BIKE 9852,130.49,Transportation,UPI,Lucknow,27-09-2024 19:11,rapido bike ,Transport,FALSE,Normal
+TXN_00431,WATER DEPT 7552 XYZ149,1621.58,Utilities,Debit Card,Ahmedabad,20-09-2024 13:30,water dept  xyz,Bills,FALSE,Normal
+TXN_00432,ICLOUD BACKUP,363.96,Subscriptions,Credit Card,Jaipur,23-01-2024 16:52,icloud backup,Subscriptions,FALSE,Normal
+TXN_00433,SUBWAY MRT STN,134.36,Food & Beverage,Credit Card,Mumbai,05-07-2024 14:27,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00434,ADOBE CLOUD 4566,186.94,Subscriptions,Credit Card,Hyderabad,17-03-2024 18:03,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00435,SUBWAY MRT STN,65.08,Food & Beverage,Wallet,Jaipur,25-01-2024 20:16,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00436,AUDIBLE AUDIO 7745 XYZ783,122.71,Subscriptions,Unknown,Kolkata,19-09-2024 16:53,audible audio  xyz,Subscriptions,FALSE,Normal
+TXN_00437,AMZ MKTP 1897,1384.77,Shopping,Net Banking,Kolkata,15-11-2024 21:58,amz mktp ,Shopping,FALSE,Normal
+TXN_00438,LAKME SALON 6717,17966.3,Personal Care,UPI,Delhi,12-12-2024 09:41,lakme salon ,Shopping,FALSE,Normal
+TXN_00439,INSURANCE PREMIUM 2192,553.14,Financial,Debit Card,Kolkata,02-08-2024 20:18,insurance premium ,Bills,FALSE,Normal
+TXN_00440,SPA TREATMENT 3757,1567.9,Personal Care,Net Banking,Bangalore,07-08-2024 23:49,spa treatment ,Healthcare,FALSE,Normal
+TXN_00441,YOUTUBE PREMIUM 5388,339.67,Entertainment,Credit Card,Bangalore,20-05-2024 22:32,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00442,ADOBE CLOUD 8364,1241.96,Subscriptions,Debit Card,Hyderabad,18-09-2024 13:03,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00443,MUTUAL FUND,1714.68,Financial,UPI,Jaipur,29-12-2024 21:16,mutual fund,Financial,FALSE,Normal
+TXN_00444,STARBKS 9199,192.13,Food & Beverage,Credit Card,Pune,05-04-2024 22:46,starbks ,Food & Beverage,FALSE,Normal
+TXN_00445,BANK FEE 5839,2391.38,Financial,Wallet,Kolkata,16-05-2024 08:16,bank fee ,Financial,FALSE,Normal
+TXN_00446,STARBKS,78.51,Food & Beverage,Net Banking,Pune,20-12-2024 21:02,starbks,Food & Beverage,FALSE,Normal
+TXN_00447,BSNL BILL 3940,1631.5,Utilities,Debit Card,Ahmedabad,03-03-2024 21:36,bsnl bill ,Bills,FALSE,Normal
+TXN_00448,DECATHLON SPORTS 8318,332.54,Personal Care,Credit Card,Jaipur,22-06-2024 12:21,decathlon sports ,Shopping,FALSE,Normal
+TXN_00449,BANK FEE 2635,1829.01,Financial,Debit Card,Pune,21-03-2024 17:53,bank fee ,Financial,FALSE,Normal
+TXN_00450,ICLOUD BACKUP,138.14,Subscriptions,Net Banking,Lucknow,16-11-2024 10:43,icloud backup,Subscriptions,FALSE,Normal
+TXN_00451,ONLINE COURSE 9142,74007.46,Education,Net Banking,Chennai,16-08-2024 16:39,online course ,Education,TRUE,Anomalous
+TXN_00452,BOOKMYSHOW 9805,966.49,Entertainment,Debit Card,Jaipur,17-03-2024 09:57,bookmyshow ,Entertainment,FALSE,Normal
+TXN_00453,GYM MEMBERSHIP,2750.01,Healthcare,Credit Card,Lucknow,13-04-2024 22:54,gym membership,Subscriptions,FALSE,Normal
+TXN_00454,INVESTMENT APP,1382.69,Financial,UPI,Pune,24-01-2024 11:37,investment app,Financial,FALSE,Normal
+TXN_00455,METRO CARD REF 3085,575.09,Transportation,Net Banking,Lucknow,20-11-2024 16:12,metro card ref ,Transport,FALSE,Normal
+TXN_00456,SUBWAY MRT STN 8542,133.76,Food & Beverage,Wallet,Chennai,04-09-2024 12:25,subway mrt stn ,Food & Beverage,FALSE,Normal
+TXN_00457,SKILL SHARE 9155,2065.28,Education,Debit Card,Ahmedabad,20-06-2024 14:38,skill share ,Education,FALSE,Normal
+TXN_00458,SWIGGY DELIVERY 1241,99.52,Food & Beverage,Debit Card,Ahmedabad,14-07-2024 14:04,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00459,OLA CAB 5421,256.67,Transportation,Debit Card,Pune,07-10-2024 17:29,ola cab ,Transport,FALSE,Normal
+TXN_00460,TUITION FEES,8309.13,Education,Net Banking,Hyderabad,28-09-2024 22:57,tuition fees,Education,FALSE,Normal
+TXN_00461,NYKAA BEAUTY 9100,3572.29,Shopping,Unknown,Jaipur,20-03-2024 15:15,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00462,ADOBE CLOUD 9404 XYZ856,65.3,Subscriptions,Wallet,Hyderabad,08-02-2024 20:40,adobe cloud  xyz,Subscriptions,FALSE,Normal
+TXN_00463,METRO CARD REF,517.3,Transportation,Debit Card,Jaipur,28-05-2024 12:40,metro card ref,Transport,FALSE,Normal
+TXN_00464,YOUTUBE PREMIUM 6906,451.81,Entertainment,Net Banking,Ahmedabad,28-09-2024 07:47,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00465,SPA TREATMENT 4435,1229.95,Personal Care,UPI,Ahmedabad,03-09-2024 15:38,spa treatment ,Healthcare,FALSE,Normal
+TXN_00466,STARBKS 7291,328.61,Food & Beverage,Credit Card,Jaipur,13-08-2024 08:20,starbks ,Food & Beverage,FALSE,Normal
+TXN_00467,METRO CARD REF,432.16,Transportation,UPI,Mumbai,19-01-2024 12:54,metro card ref,Transport,FALSE,Normal
+TXN_00468,BOOK STORE 23 6791,4035.05,Education,Wallet,Jaipur,19-08-2024 13:18,book store  ,Shopping,FALSE,Normal
+TXN_00469,AUDIBLE AUDIO,178.22,Subscriptions,Net Banking,Kolkata,11-05-2024 13:13,audible audio,Subscriptions,FALSE,Normal
+TXN_00470,RELIANCE MKT,2091.12,Shopping,Debit Card,Pune,01-11-2024 10:49,reliance mkt,Shopping,FALSE,Normal
+TXN_00471,UNIQLO STORE 7635,8884.2,Uncategorized,Unknown,Lucknow,02-06-2024 23:31,uniqlo store ,Shopping,FALSE,Normal
+TXN_00472,ICLOUD BACKUP 8955,436.66,Subscriptions,Wallet,Ahmedabad,01-12-2024 09:18,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00473,JIO RECHARGE 2544 XYZ107,817.01,Utilities,UPI,Pune,06-08-2024 10:56,jio recharge  xyz,Subscriptions,FALSE,Normal
+TXN_00474,HOTSTAR SUB,767.57,Entertainment,Net Banking,Bangalore,10-07-2024 08:38,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00475,SWIGGY DELIVERY 9693,470.09,Food & Beverage,Credit Card,Pune,10-11-2024 17:57,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00476,FLIPKRT.COM 1976,38824.09,Shopping,Net Banking,Delhi,22-02-2024 17:19,flipkrtcom ,Shopping,TRUE,Anomalous
+TXN_00477,UBER TRIP,89.7,Transportation,Credit Card,Chennai,06-11-2024 17:56,uber trip,Transport,FALSE,Normal
+TXN_00478,METRO CARD REF 2252,499.95,Transportation,Debit Card,Hyderabad,17-08-2024 12:26,metro card ref ,Transport,FALSE,Normal
+TXN_00479,INVESTMENT APP,819.14,Financial,Wallet,Chennai,14-04-2024 22:55,investment app,Financial,FALSE,Normal
+TXN_00480,APOLLO HOSP 9048,1740.52,Healthcare,Debit Card,Hyderabad,27-10-2024 11:02,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00481,METRO CARD REF,112.19,Transportation,Debit Card,Pune,03-02-2024 13:42,metro card ref,Transport,FALSE,Normal
+TXN_00482,DOMINOS PZ 6369,102.02,Food & Beverage,Net Banking,Jaipur,16-01-2024 12:29,dominos pz ,Food & Beverage,FALSE,Normal
+TXN_00483,ONLINE COURSE 2167,4573.67,Education,Debit Card,Chennai,01-12-2024 17:27,online course ,Education,FALSE,Normal
+TXN_00484,AIRTEL POSTPAID 4251,8307.19,Utilities,Credit Card,Ahmedabad,02-01-2024 08:51,airtel postpaid ,Bills,FALSE,Normal
+TXN_00485,AUDIBLE AUDIO 2211,58.86,Subscriptions,UPI,Lucknow,23-08-2024 18:15,audible audio ,Subscriptions,FALSE,Normal
+TXN_00486,AUTO RICKSHAW,239.94,Transportation,Wallet,Jaipur,26-09-2024 11:33,auto rickshaw,Transport,FALSE,Normal
+TXN_00487,SPOTIFY SUB 5637,321.21,Subscriptions,UPI,Pune,03-03-2024 16:33,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00488,INTERNET PROVIDER,656.17,Utilities,UPI,Jaipur,08-08-2024 09:30,internet provider,Bills,FALSE,Normal
+TXN_00489,ONLINE COURSE 2086,1983.37,Education,Unknown,Kolkata,03-06-2024 23:08,online course ,Education,FALSE,Normal
+TXN_00490,AJIO FASHION,1023.88,Shopping,Net Banking,Bangalore,04-01-2024 18:43,ajio fashion,Shopping,FALSE,Normal
+TXN_00491,SPOTIFY SUB 6154,299.78,Subscriptions,Net Banking,Kolkata,10-09-2024 23:35,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00492,RAPIDO BIKE 7604,600.1,Transportation,Net Banking,Delhi,19-09-2024 12:11,rapido bike ,Transport,FALSE,Normal
+TXN_00493,UDEMY COURSE,5688.07,Education,Debit Card,Pune,18-01-2024 15:23,udemy course,Education,FALSE,Normal
+TXN_00494,AUTO RICKSHAW 2273,412.43,Transportation,Wallet,Kolkata,05-09-2024 11:15,auto rickshaw ,Transport,FALSE,Normal
+TXN_00495,AMZ MKTP 5956,4314.65,Shopping,Debit Card,Kolkata,08-12-2024 21:30,amz mktp ,Shopping,FALSE,Normal
+TXN_00496,SALON CUTS 7014,19130.96,Personal Care,UPI,Ahmedabad,17-11-2024 23:16,salon cuts ,Shopping,FALSE,Normal
+TXN_00497,McDONALDS 4521,462.34,Food & Beverage,UPI,Pune,06-04-2024 15:27,mcdonalds ,Food & Beverage,FALSE,Normal
+TXN_00498,SWIGGY DELIVERY 3232,477.34,Food & Beverage,Debit Card,Chennai,09-03-2024 21:41,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00499,UDEMY COURSE 6899,3931.74,Education,Unknown,Jaipur,10-07-2024 23:13,udemy course ,Education,FALSE,Normal
+TXN_00500,HOTSTAR SUB,497,Entertainment,UPI,Ahmedabad,14-09-2024 13:16,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00501,NETMEDS APP 2339,2652.19,Healthcare,Net Banking,Lucknow,28-10-2024 07:04,netmeds app ,Healthcare,FALSE,Normal
+TXN_00502,TUITION FEES,1015.54,Education,UPI,Lucknow,27-02-2024 10:09,tuition fees,Education,FALSE,Normal
+TXN_00503,COURSERA FEE,5301.84,Education,Credit Card,Delhi,18-02-2024 21:29,coursera fee,Education,FALSE,Normal
+TXN_00504,COURSERA FEE,5899.02,Education,UPI,Hyderabad,07-10-2024 08:16,coursera fee,Education,FALSE,Normal
+TXN_00505,WATER DEPT 5955,1094.23,Utilities,UPI,Pune,07-11-2024 08:55,water dept ,Bills,FALSE,Normal
+TXN_00506,SPA TREATMENT 6306,474.31,Personal Care,UPI,Mumbai,24-10-2024 10:45,spa treatment ,Healthcare,FALSE,Normal
+TXN_00507,PRIME VIDEO 8150,13784.33,Entertainment,UPI,Delhi,31-01-2024 17:43,prime video ,Subscriptions,TRUE,Anomalous
+TXN_00508,NYKAA BEAUTY,42772.05,Shopping,Net Banking,Mumbai,25-06-2024 18:00,nykaa beauty,Shopping,TRUE,Anomalous
+TXN_00509,MEDPLUS CHEMIST 9159,27999.3,Healthcare,Credit Card,Ahmedabad,09-08-2024 10:32,medplus chemist ,Healthcare,TRUE,Anomalous
+TXN_00510,ELECTRICITY BOARD 2688,1397.99,Utilities,Net Banking,Pune,02-01-2024 07:16,electricity board ,Bills,FALSE,Normal
+TXN_00511,AMZ MKTP 5462,3322.18,Shopping,Net Banking,Delhi,23-10-2024 09:54,amz mktp ,Shopping,FALSE,Normal
+TXN_00512,MEDPLUS CHEMIST XYZ117,2640.05,Healthcare,Net Banking,Mumbai,29-02-2024 14:04,medplus chemist xyz,Healthcare,FALSE,Normal
+TXN_00513,BSNL BILL 8387,954.65,Uncategorized,UPI,Chennai,31-03-2024 07:15,bsnl bill ,Bills,FALSE,Normal
+TXN_00514,Unknown Transaction,1534.65,Education,UPI,Kolkata,24-03-2024 10:08,unknown transaction,Financial,FALSE,Normal
+TXN_00515,RELIANCE MKT 4491,4394.76,Shopping,Wallet,Bangalore,02-05-2024 22:40,reliance mkt ,Shopping,FALSE,Normal
+TXN_00516,MYNTRA APP 6705,2163.52,Shopping,UPI,Jaipur,19-10-2024 23:53,myntra app ,Shopping,FALSE,Normal
+TXN_00517,YOUTUBE PREMIUM 7138 XYZ321,1196.46,Entertainment,Net Banking,Ahmedabad,30-01-2024 23:03,youtube premium  xyz,Subscriptions,FALSE,Normal
+TXN_00518,BOOK STORE 23,5651.24,Education,Wallet,Delhi,07-02-2024 11:11,book store ,Shopping,FALSE,Normal
+TXN_00519,DR SHARMA CLINIC 5779,530,Healthcare,Debit Card,Chennai,11-02-2024 17:11,dr sharma clinic ,Healthcare,FALSE,Normal
+TXN_00520,STARBKS 6829,369.7,Food & Beverage,Wallet,Kolkata,15-08-2024 18:35,starbks ,Food & Beverage,FALSE,Normal
+TXN_00521,DOMINOS PZ,168.08,Food & Beverage,Credit Card,Chennai,18-12-2024 20:05,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00522,Unknown Transaction,891.62,Healthcare,Net Banking,Kolkata,03-03-2024 20:52,unknown transaction,Financial,FALSE,Normal
+TXN_00523,SPA TREATMENT,1584.44,Personal Care,Wallet,Delhi,08-11-2024 13:33,spa treatment,Healthcare,FALSE,Normal
+TXN_00524,AIRTEL POSTPAID,1514.47,Utilities,UPI,Kolkata,14-06-2024 22:40,airtel postpaid,Bills,FALSE,Normal
+TXN_00525,RELIANCE MKT,1838.44,Shopping,Wallet,Ahmedabad,07-10-2024 16:24,reliance mkt,Shopping,FALSE,Normal
+TXN_00526,DR SHARMA CLINIC,1398.23,Healthcare,Credit Card,Chennai,25-04-2024 20:27,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00527,HOTSTAR SUB,217.04,Entertainment,Debit Card,Pune,28-11-2024 20:15,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00528,INSURANCE PREMIUM 7388,3827.16,Financial,Debit Card,Pune,22-09-2024 12:32,insurance premium ,Bills,FALSE,Normal
+TXN_00529,JIO RECHARGE,1719.57,Utilities,Debit Card,Pune,11-10-2024 20:19,jio recharge,Bills,FALSE,Normal
+TXN_00530,HOTSTAR SUB 9309,11964.52,Entertainment,Net Banking,Hyderabad,28-04-2024 23:55,hotstar sub ,Subscriptions,TRUE,Anomalous
+TXN_00531,KFC #123 6343,303.58,Food & Beverage,Debit Card,Bangalore,25-04-2024 19:03,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00532,H&M STORE 45 5975,4838.3,Shopping,Debit Card,Mumbai,10-09-2024 13:31,hm store  ,Shopping,FALSE,Normal
+TXN_00533,ZOMATO APP,2513.06,Food & Beverage,UPI,Delhi,08-08-2024 22:38,zomato app,Food & Beverage,FALSE,Normal
+TXN_00534,SWIGGY DELIVERY 1563,185.77,Food & Beverage,Credit Card,Mumbai,20-10-2024 19:34,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00535,INVESTMENT APP 4684,2194.23,Financial,Wallet,Bangalore,08-12-2024 22:44,investment app ,Financial,FALSE,Normal
+TXN_00536,STARBKS 4385,211.81,Uncategorized,UPI,Pune,14-08-2024 17:49,starbks ,Food & Beverage,FALSE,Normal
+TXN_00537,BSNL BILL 7328,1938.64,Utilities,Wallet,Pune,28-03-2024 14:39,bsnl bill ,Bills,FALSE,Normal
+TXN_00538,SALON CUTS 1163,306.86,Personal Care,Net Banking,Mumbai,20-06-2024 22:35,salon cuts ,Shopping,FALSE,Normal
+TXN_00539,APOLLO HOSP 3632,1273.93,Healthcare,Debit Card,Ahmedabad,21-01-2024 19:06,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00540,SPOTIFY SUB 1884,231.57,Subscriptions,UPI,Delhi,18-04-2024 08:20,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00541,MEDPLUS CHEMIST 8402,1025.26,Healthcare,Net Banking,Chennai,24-03-2024 17:55,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00542,AUDIBLE AUDIO 3135,117.6,Subscriptions,Net Banking,Kolkata,12-09-2024 17:07,audible audio ,Subscriptions,FALSE,Normal
+TXN_00543,SKILL SHARE 8266,7687.25,Education,Debit Card,Lucknow,12-08-2024 20:34,skill share ,Education,FALSE,Normal
+TXN_00544,HOTSTAR SUB 1293,6050.07,Entertainment,Wallet,Kolkata,20-05-2024 13:13,hotstar sub ,Subscriptions,FALSE,Normal
+TXN_00545,BANK FEE 9211,2395.75,Financial,Credit Card,Delhi,13-11-2024 07:08,bank fee ,Financial,FALSE,Normal
+TXN_00546,COURSERA FEE,8524.06,Education,Debit Card,Ahmedabad,13-08-2024 18:08,coursera fee,Education,FALSE,Normal
+TXN_00547,ELECTRICITY BOARD 1052,1423.23,Utilities,UPI,Ahmedabad,22-02-2024 16:31,electricity board ,Bills,FALSE,Normal
+TXN_00548,FLIPKRT.COM,1690.14,Shopping,Credit Card,Jaipur,07-07-2024 10:24,flipkrtcom,Shopping,FALSE,Normal
+TXN_00549,NYKAA BEAUTY 5167,1559.42,Shopping,Debit Card,Hyderabad,20-11-2024 13:30,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00550,UNIQLO STORE 2263,559.34,Personal Care,Debit Card,Bangalore,29-06-2024 11:53,uniqlo store ,Shopping,FALSE,Normal
+TXN_00551,SKILL SHARE,6457.22,Education,Credit Card,Ahmedabad,13-09-2024 18:14,skill share,Education,FALSE,Normal
+TXN_00552,BANK FEE 4876,2010.69,Financial,Net Banking,Chennai,05-01-2024 07:17,bank fee ,Financial,FALSE,Normal
+TXN_00553,HOTSTAR SUB 4078,1288.62,Entertainment,Credit Card,Kolkata,24-04-2024 07:39,hotstar sub ,Subscriptions,FALSE,Normal
+TXN_00554,BANK FEE 2509,890.03,Financial,Credit Card,Mumbai,23-08-2024 11:49,bank fee ,Financial,FALSE,Normal
+TXN_00555,APOLLO PHARMACY 2930,213.87,Healthcare,UPI,Kolkata,26-07-2024 12:59,apollo pharmacy ,Healthcare,FALSE,Normal
+TXN_00556,INSURANCE PREMIUM 6260,3204.59,Financial,Wallet,Ahmedabad,11-09-2024 07:15,insurance premium ,Bills,FALSE,Normal
+TXN_00557,NETFLIX SUBS,1254.55,Entertainment,UPI,Lucknow,08-02-2024 23:44,netflix subs,Subscriptions,FALSE,Normal
+TXN_00558,ONLINE COURSE 3536,5091.98,Education,Credit Card,Hyderabad,27-03-2024 19:41,online course ,Education,FALSE,Normal
+TXN_00559,SALON CUTS 4208,309.19,Personal Care,Credit Card,Delhi,22-11-2024 19:55,salon cuts ,Shopping,FALSE,Normal
+TXN_00560,TUITION FEES 3600,7938.95,Education,Wallet,Bangalore,19-06-2024 23:12,tuition fees ,Education,FALSE,Normal
+TXN_00561,BANK FEE 9394,3859.78,Financial,Net Banking,Ahmedabad,12-03-2024 13:10,bank fee ,Financial,FALSE,Normal
+TXN_00562,INTERNET PROVIDER 2316,836.15,Utilities,Debit Card,Hyderabad,27-12-2024 15:34,internet provider ,Bills,FALSE,Normal
+TXN_00563,AIRTEL POSTPAID 7391,10798.26,Utilities,UPI,Pune,23-05-2024 15:13,airtel postpaid ,Bills,FALSE,Normal
+TXN_00564,AUTO RICKSHAW 5677,60.26,Transportation,Wallet,Ahmedabad,27-07-2024 22:00,auto rickshaw ,Transport,FALSE,Normal
+TXN_00565,ICLOUD BACKUP 2875,2172.51,Subscriptions,Net Banking,Mumbai,09-06-2024 16:30,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00566,INSURANCE PREMIUM 6860,1356.75,Financial,Debit Card,Delhi,24-07-2024 11:41,insurance premium ,Bills,FALSE,Normal
+TXN_00567,ELECTRICITY BOARD 1318,1945.44,Utilities,Credit Card,Pune,28-09-2024 22:40,electricity board ,Bills,FALSE,Normal
+TXN_00568,NYKAA BEAUTY,612.17,Shopping,Credit Card,Delhi,03-05-2024 10:52,nykaa beauty,Shopping,FALSE,Normal
+TXN_00569,BANK FEE 4259,3862.15,Financial,Debit Card,Ahmedabad,13-10-2024 19:42,bank fee ,Financial,FALSE,Normal
+TXN_00570,SPOTIFY SUB 7496,3334.4,Subscriptions,Wallet,Delhi,09-09-2024 18:25,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00571,H&M STORE 45 1229,4888.42,Shopping,UPI,Bangalore,15-10-2024 13:19,hm store  ,Shopping,FALSE,Normal
+TXN_00572,BANK FEE 2019,4267.58,Financial,Net Banking,Kolkata,11-12-2024 08:10,bank fee ,Financial,FALSE,Normal
+TXN_00573,INSURANCE PREMIUM 9594,3148.57,Financial,Wallet,Chennai,01-06-2024 09:54,insurance premium ,Bills,FALSE,Normal
+TXN_00574,WATER DEPT,1035.37,Utilities,Credit Card,Kolkata,03-10-2024 16:02,water dept,Bills,FALSE,Normal
+TXN_00575,HOTSTAR SUB 6736,1147.61,Entertainment,Debit Card,Bangalore,05-05-2024 12:07,hotstar sub ,Subscriptions,FALSE,Normal
+TXN_00576,PETROL PUMP 12 7465,722.68,Transportation,Credit Card,Chennai,13-11-2024 17:36,petrol pump  ,Transport,FALSE,Normal
+TXN_00577,DECATHLON SPORTS 6777,235.97,Personal Care,Net Banking,Jaipur,09-08-2024 08:35,decathlon sports ,Shopping,FALSE,Normal
+TXN_00578,SPOTIFY SUB 1360,2572.12,Subscriptions,Wallet,Delhi,11-08-2024 11:36,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00579,UBER TRIP 7698,150.52,Transportation,Wallet,Lucknow,17-11-2024 19:38,uber trip ,Transport,FALSE,Normal
+TXN_00580,MUTUAL FUND,557.42,Financial,Net Banking,Mumbai,24-02-2024 08:50,mutual fund,Financial,FALSE,Normal
+TXN_00581,INTERNET PROVIDER,1824.09,Utilities,Credit Card,Mumbai,03-05-2024 22:14,internet provider,Bills,FALSE,Normal
+TXN_00582,UNIQLO STORE 5841,1334.48,Personal Care,Debit Card,Pune,10-06-2024 08:58,uniqlo store ,Shopping,FALSE,Normal
+TXN_00583,UBER TRIP 5173,550.15,Transportation,Credit Card,Bangalore,16-04-2024 08:26,uber trip ,Transport,FALSE,Normal
+TXN_00584,ICLOUD BACKUP 9349,1685.59,Subscriptions,Debit Card,Jaipur,23-02-2024 18:58,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00585,INSURANCE PREMIUM 9603,3542.48,Financial,Unknown,Lucknow,10-07-2024 15:48,insurance premium ,Bills,FALSE,Normal
+TXN_00586,TUITION FEES XYZ463,35027.94,Education,UPI,Jaipur,17-03-2024 13:27,tuition fees xyz,Education,FALSE,Normal
+TXN_00587,ICLOUD BACKUP 7387,1328.12,Subscriptions,UPI,Lucknow,27-06-2024 09:01,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00588,ADOBE CLOUD 4486,395.62,Subscriptions,Credit Card,Mumbai,05-07-2024 22:27,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00589,UDEMY COURSE 9942,5633.73,Education,Debit Card,Pune,09-11-2024 08:51,udemy course ,Education,FALSE,Normal
+TXN_00590,GYM MEMBERSHIP,271.77,Healthcare,Wallet,Ahmedabad,06-04-2024 16:00,gym membership,Subscriptions,FALSE,Normal
+TXN_00591,MEDPLUS CHEMIST,2718.09,Healthcare,Unknown,Kolkata,23-04-2024 19:30,medplus chemist,Healthcare,FALSE,Normal
+TXN_00592,COURSERA FEE 9490,7404.56,Education,Net Banking,Pune,27-09-2024 19:00,coursera fee ,Education,FALSE,Normal
+TXN_00593,LAKME SALON 6417,1021.37,Personal Care,Debit Card,Chennai,22-05-2024 17:32,lakme salon ,Shopping,FALSE,Normal
+TXN_00594,PRIME VIDEO 8691,264.7,Entertainment,UPI,Delhi,07-04-2024 09:02,prime video ,Subscriptions,FALSE,Normal
+TXN_00595,KFC #123 3762,466.49,Food & Beverage,Debit Card,Delhi,24-03-2024 15:32,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00596,SALON CUTS,797.43,Personal Care,Debit Card,Bangalore,30-04-2024 20:53,salon cuts,Shopping,FALSE,Normal
+TXN_00597,ONLINE COURSE 3155,9664.96,Education,Net Banking,Jaipur,18-10-2024 09:21,online course ,Education,FALSE,Normal
+TXN_00598,SWIGGY DELIVERY,292.11,Food & Beverage,Debit Card,Delhi,09-12-2024 15:05,swiggy delivery,Food & Beverage,FALSE,Normal
+TXN_00599,H&M STORE 45 2664,3959.32,Shopping,Credit Card,Delhi,25-04-2024 15:59,hm store  ,Shopping,FALSE,Normal
+TXN_00600,ONLINE COURSE 1989 XYZ683,9789.55,Education,Debit Card,Chennai,23-11-2024 22:04,online course  xyz,Education,FALSE,Normal
+TXN_00601,PRIME VIDEO 2918,634.39,Entertainment,UPI,Mumbai,06-01-2024 16:21,prime video ,Subscriptions,FALSE,Normal
+TXN_00602,ICLOUD BACKUP 3310,262.99,Subscriptions,Credit Card,Chennai,15-10-2024 23:17,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00603,BANK FEE 3036,42587.38,Financial,Debit Card,Ahmedabad,23-09-2024 19:57,bank fee ,Financial,TRUE,Anomalous
+TXN_00604,SPOTIFY SUB 6232,482.64,Subscriptions,Wallet,Jaipur,19-06-2024 15:39,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00605,BANK FEE,3906.61,Financial,UPI,Lucknow,08-12-2024 11:05,bank fee,Financial,FALSE,Normal
+TXN_00606,NETFLIX SUBS 3231,950.15,Entertainment,UPI,Pune,18-11-2024 10:55,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00607,PRIME VIDEO 3004,259.63,Entertainment,UPI,Jaipur,04-03-2024 23:50,prime video ,Subscriptions,FALSE,Normal
+TXN_00608,AIRTEL POSTPAID,1895.95,Utilities,Wallet,Jaipur,07-02-2024 22:23,airtel postpaid,Bills,FALSE,Normal
+TXN_00609,STARBKS 2206,211.07,Food & Beverage,UPI,Ahmedabad,08-05-2024 19:46,starbks ,Food & Beverage,FALSE,Normal
+TXN_00610,RELIANCE MKT 8101,3261.95,Shopping,Credit Card,Lucknow,19-02-2024 23:46,reliance mkt ,Shopping,FALSE,Normal
+TXN_00611,ICLOUD BACKUP 1158,400.88,Subscriptions,Credit Card,Lucknow,27-10-2024 09:43,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00612,MYNTRA APP,4106.87,Shopping,UPI,Jaipur,10-03-2024 19:08,myntra app,Shopping,FALSE,Normal
+TXN_00613,SPA TREATMENT 1235,299.67,Personal Care,Credit Card,Kolkata,26-08-2024 16:49,spa treatment ,Healthcare,FALSE,Normal
+TXN_00614,BOOK STORE 23 4498,1089.16,Education,UPI,Kolkata,13-05-2024 08:39,book store  ,Shopping,FALSE,Normal
+TXN_00615,MYNTRA APP 4752,1056.08,Shopping,Credit Card,Kolkata,15-12-2024 11:31,myntra app ,Shopping,FALSE,Normal
+TXN_00616,AUDIBLE AUDIO 1600,466.85,Subscriptions,Debit Card,Jaipur,06-12-2024 08:14,audible audio ,Subscriptions,FALSE,Normal
+TXN_00617,AJIO FASHION 5886,2475.94,Shopping,Debit Card,Mumbai,29-12-2024 18:11,ajio fashion ,Shopping,FALSE,Normal
+TXN_00618,TUITION FEES 6003,3406.01,Education,Wallet,Kolkata,25-05-2024 10:21,tuition fees ,Education,FALSE,Normal
+TXN_00619,UDEMY COURSE 1422,3548.42,Education,UPI,Mumbai,18-11-2024 12:02,udemy course ,Education,FALSE,Normal
+TXN_00620,DECATHLON SPORTS 9505,1150.92,Personal Care,Wallet,Hyderabad,23-06-2024 19:51,decathlon sports ,Shopping,FALSE,Normal
+TXN_00621,AUDIBLE AUDIO 1150,197.08,Subscriptions,Net Banking,Mumbai,21-11-2024 21:16,audible audio ,Subscriptions,FALSE,Normal
+TXN_00622,DECATHLON SPORTS 2254,658.93,Personal Care,Net Banking,Mumbai,31-07-2024 12:22,decathlon sports ,Shopping,FALSE,Normal
+TXN_00623,COURSERA FEE 9362,8373.26,Education,Wallet,Bangalore,27-11-2024 12:25,coursera fee ,Education,FALSE,Normal
+TXN_00624,KFC #123 5772,419.81,Food & Beverage,Wallet,Pune,19-02-2024 16:54,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00625,NYKAA BEAUTY 2861,1614.88,Shopping,Wallet,Delhi,09-09-2024 08:28,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00626,METRO CARD REF 5095,3099.17,Transportation,Net Banking,Mumbai,23-05-2024 20:05,metro card ref ,Transport,FALSE,Normal
+TXN_00627,Unknown Transaction,416.19,Transportation,UPI,Jaipur,21-04-2024 12:06,unknown transaction,Financial,FALSE,Normal
+TXN_00628,ICLOUD BACKUP XYZ464,102.62,Subscriptions,Wallet,Kolkata,22-07-2024 17:17,icloud backup xyz,Subscriptions,FALSE,Normal
+TXN_00629,FLIPKRT.COM 3815,1145.89,Shopping,Net Banking,Ahmedabad,25-10-2024 23:34,flipkrtcom ,Shopping,FALSE,Normal
+TXN_00630,NETMEDS APP,2836.95,Healthcare,Net Banking,Jaipur,05-10-2024 15:27,netmeds app,Healthcare,FALSE,Normal
+TXN_00631,AMZ MKTP 3413,4132.38,Shopping,Credit Card,Ahmedabad,14-01-2024 13:24,amz mktp ,Shopping,FALSE,Normal
+TXN_00632,NETMEDS APP 6599,297.48,Healthcare,Debit Card,Lucknow,09-10-2024 21:12,netmeds app ,Healthcare,FALSE,Normal
+TXN_00633,ZOMATO APP,250.88,Food & Beverage,Net Banking,Jaipur,08-03-2024 08:40,zomato app,Food & Beverage,FALSE,Normal
+TXN_00634,NETFLIX SUBS,987.8,Entertainment,Wallet,Bangalore,03-05-2024 23:17,netflix subs,Subscriptions,FALSE,Normal
+TXN_00635,DOMINOS PZ,166.67,Food & Beverage,Debit Card,Mumbai,09-05-2024 07:41,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00636,AUDIBLE AUDIO 5596,2811.79,Subscriptions,Net Banking,Pune,13-06-2024 08:15,audible audio ,Subscriptions,FALSE,Normal
+TXN_00637,PRIME VIDEO 4934,301.25,Entertainment,Wallet,Hyderabad,25-04-2024 09:03,prime video ,Subscriptions,FALSE,Normal
+TXN_00638,METRO CARD REF 9448,200.38,Uncategorized,UPI,Mumbai,04-03-2024 15:26,metro card ref ,Transport,FALSE,Normal
+TXN_00639,BANK FEE 4679,1495.17,Financial,Wallet,Delhi,11-10-2024 20:48,bank fee ,Financial,FALSE,Normal
+TXN_00640,AUDIBLE AUDIO 9311,60.58,Subscriptions,Credit Card,Kolkata,15-09-2024 20:46,audible audio ,Subscriptions,FALSE,Normal
+TXN_00641,BOOKMYSHOW,1464.23,Entertainment,UPI,Ahmedabad,10-06-2024 08:42,bookmyshow,Entertainment,FALSE,Normal
+TXN_00642,DR SHARMA CLINIC,2778.05,Healthcare,Credit Card,Pune,15-06-2024 09:17,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00643,COURSERA FEE,24621.45,Education,Unknown,Ahmedabad,26-05-2024 12:27,coursera fee,Education,FALSE,Normal
+TXN_00644,AUDIBLE AUDIO 1760,4192.4,Subscriptions,Debit Card,Bangalore,31-01-2024 11:18,audible audio ,Subscriptions,FALSE,Normal
+TXN_00645,ELECTRICITY BOARD,797.46,Utilities,UPI,Ahmedabad,25-05-2024 12:23,electricity board,Bills,FALSE,Normal
+TXN_00646,SUBWAY MRT STN,444.02,Food & Beverage,Credit Card,Jaipur,10-12-2024 07:03,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00647,NETFLIX SUBS 8250,743.38,Entertainment,Net Banking,Chennai,05-03-2024 20:44,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00648,INVESTMENT APP 3169,4786.44,Financial,Unknown,Mumbai,12-08-2024 08:08,investment app ,Financial,FALSE,Normal
+TXN_00649,MUTUAL FUND,4877.19,Financial,Credit Card,Mumbai,16-05-2024 11:36,mutual fund,Financial,FALSE,Normal
+TXN_00650,AUDIBLE AUDIO 4454,388.83,Subscriptions,Credit Card,Ahmedabad,15-12-2024 07:43,audible audio ,Subscriptions,FALSE,Normal
+TXN_00651,MUTUAL FUND 5032,2765.86,Financial,UPI,Lucknow,06-12-2024 21:18,mutual fund ,Financial,FALSE,Normal
+TXN_00652,UNIQLO STORE 1739,1345.06,Personal Care,Wallet,Kolkata,04-10-2024 16:48,uniqlo store ,Shopping,FALSE,Normal
+TXN_00653,INSURANCE PREMIUM,108.33,Financial,Credit Card,Ahmedabad,16-10-2024 14:15,insurance premium,Bills,FALSE,Normal
+TXN_00654,MYNTRA APP XYZ791,2254.87,Shopping,Wallet,Bangalore,19-08-2024 18:39,myntra app xyz,Shopping,FALSE,Normal
+TXN_00655,ADOBE CLOUD,142.15,Subscriptions,Wallet,Pune,21-06-2024 17:41,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00656,ICLOUD BACKUP 7311,137.46,Subscriptions,Net Banking,Kolkata,10-06-2024 07:47,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00657,INSURANCE PREMIUM 3131,499.67,Financial,Net Banking,Mumbai,02-02-2024 21:58,insurance premium ,Bills,FALSE,Normal
+TXN_00658,MUTUAL FUND 8096,942.16,Financial,Net Banking,Bangalore,04-05-2024 14:57,mutual fund ,Financial,FALSE,Normal
+TXN_00659,JIO RECHARGE 4650,804.48,Utilities,Wallet,Bangalore,19-06-2024 08:40,jio recharge ,Bills,FALSE,Normal
+TXN_00660,LAKME SALON 1524,1243.12,Personal Care,UPI,Hyderabad,24-02-2024 20:20,lakme salon ,Shopping,FALSE,Normal
+TXN_00661,Unknown Transaction,4242.17,Education,UPI,Ahmedabad,06-01-2024 18:14,unknown transaction,Financial,FALSE,Normal
+TXN_00662,BANK FEE 8818,4176.61,Financial,Unknown,Pune,05-05-2024 10:20,bank fee ,Financial,FALSE,Normal
+TXN_00663,INVESTMENT APP 9426,1525.91,Financial,Debit Card,Mumbai,09-08-2024 17:58,investment app ,Financial,FALSE,Normal
+TXN_00664,SKILL SHARE 8357,8876.73,Education,Credit Card,Chennai,07-04-2024 13:42,skill share ,Education,FALSE,Normal
+TXN_00665,FLIPKRT.COM 7997 XYZ157,3578.68,Shopping,Net Banking,Pune,15-12-2024 11:51,flipkrtcom  xyz,Shopping,FALSE,Normal
+TXN_00666,DECATHLON SPORTS 1730,1883.18,Personal Care,UPI,Kolkata,26-07-2024 21:58,decathlon sports ,Shopping,FALSE,Normal
+TXN_00667,COURSERA FEE 8012,5679.93,Education,Net Banking,Chennai,20-04-2024 12:28,coursera fee ,Education,FALSE,Normal
+TXN_00668,AUTO RICKSHAW 4229,7954.54,Transportation,Net Banking,Bangalore,19-03-2024 08:25,auto rickshaw ,Transport,TRUE,Anomalous
+TXN_00669,ADOBE CLOUD 1731,192.76,Subscriptions,Credit Card,Lucknow,06-09-2024 07:07,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00670,YOUTUBE PREMIUM,1103.81,Entertainment,UPI,Pune,06-01-2024 08:03,youtube premium,Subscriptions,FALSE,Normal
+TXN_00671,SKILL SHARE 1774,6671.86,Uncategorized,Net Banking,Hyderabad,15-04-2024 20:19,skill share ,Education,FALSE,Normal
+TXN_00672,BANK FEE,3113.93,Financial,Credit Card,Hyderabad,10-10-2024 16:05,bank fee,Financial,FALSE,Normal
+TXN_00673,PETROL PUMP 12 4846,4468.37,Transportation,Net Banking,Mumbai,26-06-2024 15:08,petrol pump  ,Transport,FALSE,Normal
+TXN_00674,METRO CARD REF 7523,300.02,Uncategorized,UPI,Delhi,27-09-2024 22:51,metro card ref ,Transport,FALSE,Normal
+TXN_00675,DECATHLON SPORTS,1737.76,Personal Care,Net Banking,Jaipur,07-05-2024 22:20,decathlon sports,Shopping,FALSE,Normal
+TXN_00676,AUDIBLE AUDIO 8121,199.13,Subscriptions,Debit Card,Delhi,08-02-2024 15:57,audible audio ,Subscriptions,FALSE,Normal
+TXN_00677,APOLLO PHARMACY,1556.88,Healthcare,Net Banking,Hyderabad,19-06-2024 15:07,apollo pharmacy,Healthcare,FALSE,Normal
+TXN_00678,H&M STORE 45 3444,2338.74,Shopping,Wallet,Ahmedabad,29-03-2024 20:15,hm store  ,Shopping,FALSE,Normal
+TXN_00679,Unknown Transaction,4890.35,Education,Credit Card,Jaipur,19-09-2024 12:15,unknown transaction,Financial,FALSE,Normal
+TXN_00680,KFC #123 8835,247.49,Food & Beverage,Credit Card,Hyderabad,25-10-2024 23:43,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00681,INVESTMENT APP,275.42,Financial,Wallet,Ahmedabad,17-12-2024 17:53,investment app,Financial,FALSE,Normal
+TXN_00682,JIO RECHARGE 8467,1375.69,Utilities,UPI,Kolkata,15-07-2024 19:37,jio recharge ,Bills,FALSE,Normal
+TXN_00683,ONLINE COURSE 6054,6475.71,Education,Net Banking,Lucknow,18-08-2024 13:16,online course ,Education,FALSE,Normal
+TXN_00684,SUBWAY MRT STN,369.83,Food & Beverage,Credit Card,Ahmedabad,21-07-2024 08:43,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00685,SWIGGY DELIVERY 5938,189.62,Food & Beverage,Debit Card,Delhi,05-04-2024 20:02,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00686,AUDIBLE AUDIO 9891 XYZ725,313.39,Subscriptions,Debit Card,Ahmedabad,02-11-2024 17:39,audible audio  xyz,Subscriptions,FALSE,Normal
+TXN_00687,JIO RECHARGE,1551,Utilities,Debit Card,Kolkata,28-02-2024 09:54,jio recharge,Bills,FALSE,Normal
+TXN_00688,HOTSTAR SUB 8285,109.56,Entertainment,Debit Card,Chennai,04-12-2024 09:02,hotstar sub ,Subscriptions,FALSE,Normal
+TXN_00689,SKILL SHARE 3448,2950.86,Education,Debit Card,Lucknow,17-01-2024 19:09,skill share ,Education,FALSE,Normal
+TXN_00690,MUTUAL FUND 4374,17330.67,Financial,Debit Card,Jaipur,23-08-2024 13:01,mutual fund ,Financial,FALSE,Normal
+TXN_00691,WATER DEPT 5561,1115.81,Utilities,Debit Card,Mumbai,03-12-2024 09:54,water dept ,Bills,FALSE,Normal
+TXN_00692,DOMINOS PZ,406.41,Food & Beverage,Wallet,Chennai,29-06-2024 08:51,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00693,WATER DEPT 3081,1624.58,Utilities,Unknown,Kolkata,18-01-2024 20:30,water dept ,Bills,FALSE,Normal
+TXN_00694,INSURANCE PREMIUM 9152,8.53,Financial,Debit Card,Lucknow,27-12-2024 13:55,insurance premium ,Bills,FALSE,Normal
+TXN_00695,BOOKMYSHOW,1133.99,Entertainment,Debit Card,Jaipur,04-11-2024 16:00,bookmyshow,Entertainment,FALSE,Normal
+TXN_00696,MEDPLUS CHEMIST 3220,932.84,Healthcare,Credit Card,Mumbai,28-03-2024 09:33,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00697,JIO RECHARGE 2372,1128.66,Utilities,Debit Card,Kolkata,12-09-2024 07:58,jio recharge ,Bills,FALSE,Normal
+TXN_00698,NYKAA BEAUTY 2022,4699.17,Shopping,Net Banking,Delhi,02-01-2024 14:40,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00699,JIO RECHARGE 2411,1102.13,Utilities,Debit Card,Pune,02-12-2024 13:21,jio recharge ,Bills,FALSE,Normal
+TXN_00700,SPA TREATMENT 1188,301.31,Personal Care,Wallet,Lucknow,05-03-2024 10:12,spa treatment ,Healthcare,FALSE,Normal
+TXN_00701,UBER TRIP 1159,796.57,Transportation,Debit Card,Chennai,03-03-2024 23:17,uber trip ,Transport,FALSE,Normal
+TXN_00702,SKILL SHARE,8439.89,Education,Net Banking,Mumbai,29-08-2024 07:03,skill share,Education,FALSE,Normal
+TXN_00703,NETMEDS APP 9329,1272.53,Healthcare,UPI,Chennai,29-12-2024 07:44,netmeds app ,Healthcare,FALSE,Normal
+TXN_00704,INSURANCE PREMIUM 5172,2889.88,Financial,Wallet,Mumbai,29-11-2024 07:16,insurance premium ,Bills,FALSE,Normal
+TXN_00705,INVESTMENT APP 6286,3885.09,Financial,Credit Card,Ahmedabad,15-10-2024 16:48,investment app ,Financial,FALSE,Normal
+TXN_00706,HOTSTAR SUB 5493,1057.59,Entertainment,Wallet,Mumbai,11-03-2024 13:36,hotstar sub ,Subscriptions,FALSE,Normal
+TXN_00707,NETFLIX SUBS 4150,1097.17,Entertainment,Credit Card,Jaipur,30-11-2024 11:54,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00708,UBER TRIP 9878,729.59,Transportation,Wallet,Ahmedabad,29-05-2024 09:13,uber trip ,Transport,FALSE,Normal
+TXN_00709,WATER DEPT 4567,862.33,Utilities,Credit Card,Mumbai,18-03-2024 18:49,water dept ,Bills,FALSE,Normal
+TXN_00710,INVESTMENT APP 4001,2512.94,Financial,Wallet,Pune,08-08-2024 20:46,investment app ,Financial,FALSE,Normal
+TXN_00711,SKILL SHARE 7654,2546.91,Education,Credit Card,Chennai,05-07-2024 20:18,skill share ,Education,FALSE,Normal
+TXN_00712,AIRTEL POSTPAID 5114,1358.41,Utilities,Debit Card,Chennai,15-11-2024 13:41,airtel postpaid ,Bills,FALSE,Normal
+TXN_00713,PETROL PUMP 12,5945.14,Transportation,Credit Card,Chennai,20-03-2024 19:35,petrol pump ,Transport,TRUE,Anomalous
+TXN_00714,ICLOUD BACKUP,214.55,Subscriptions,Wallet,Mumbai,30-06-2024 14:16,icloud backup,Subscriptions,FALSE,Normal
+TXN_00715,SALON CUTS 1488,1776.91,Personal Care,Credit Card,Bangalore,20-10-2024 15:52,salon cuts ,Shopping,FALSE,Normal
+TXN_00716,AMZ MKTP XYZ667,1697.86,Shopping,Debit Card,Ahmedabad,23-03-2024 15:43,amz mktp xyz,Shopping,FALSE,Normal
+TXN_00717,INTERNET PROVIDER 7652,649.09,Utilities,Debit Card,Lucknow,06-03-2024 11:26,internet provider ,Bills,FALSE,Normal
+TXN_00718,UDEMY COURSE 1881,5275.39,Uncategorized,Debit Card,Bangalore,26-12-2024 07:05,udemy course ,Education,FALSE,Normal
+TXN_00719,SPA TREATMENT 8651,1830.42,Personal Care,Wallet,Pune,29-11-2024 13:59,spa treatment ,Healthcare,FALSE,Normal
+TXN_00720,AUTO RICKSHAW 1022,189.53,Transportation,Net Banking,Hyderabad,06-03-2024 21:11,auto rickshaw ,Transport,FALSE,Normal
+TXN_00721,BOOKMYSHOW,253.26,Entertainment,Debit Card,Delhi,24-02-2024 18:42,bookmyshow,Entertainment,FALSE,Normal
+TXN_00722,YOUTUBE PREMIUM 6325,353.83,Entertainment,Unknown,Pune,19-04-2024 21:15,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00723,NETMEDS APP,2318.38,Healthcare,UPI,Chennai,13-11-2024 11:06,netmeds app,Healthcare,FALSE,Normal
+TXN_00724,UNIQLO STORE,18356.04,Personal Care,UPI,Chennai,18-04-2024 20:41,uniqlo store,Shopping,FALSE,Normal
+TXN_00725,RAPIDO BIKE,189.25,Transportation,Credit Card,Lucknow,17-11-2024 13:55,rapido bike,Transport,FALSE,Normal
+TXN_00726,RELIANCE MKT 6096,503.13,Shopping,Wallet,Jaipur,21-12-2024 12:31,reliance mkt ,Shopping,FALSE,Normal
+TXN_00727,APOLLO PHARMACY 7822,1640.64,Healthcare,Net Banking,Pune,14-02-2024 17:43,apollo pharmacy ,Healthcare,FALSE,Normal
+TXN_00728,ZOMATO APP,499.01,Food & Beverage,Debit Card,Chennai,24-02-2024 15:02,zomato app,Food & Beverage,FALSE,Normal
+TXN_00729,BOOKMYSHOW,764.78,Entertainment,UPI,Lucknow,03-03-2024 19:07,bookmyshow,Entertainment,FALSE,Normal
+TXN_00730,AMZ MKTP 2591,4387.95,Shopping,Wallet,Pune,20-04-2024 11:00,amz mktp ,Shopping,FALSE,Normal
+TXN_00731,ICLOUD BACKUP 1641 XYZ141,129.19,Subscriptions,Debit Card,Ahmedabad,03-12-2024 15:48,icloud backup  xyz,Subscriptions,FALSE,Normal
+TXN_00732,ICLOUD BACKUP 8624,312.45,Subscriptions,Debit Card,Chennai,01-03-2024 10:15,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00733,BOOKMYSHOW,1372.07,Entertainment,Credit Card,Delhi,03-09-2024 20:57,bookmyshow,Entertainment,FALSE,Normal
+TXN_00734,NETMEDS APP,595.51,Healthcare,UPI,Bangalore,13-05-2024 17:18,netmeds app,Healthcare,FALSE,Normal
+TXN_00735,SUBWAY MRT STN,115.14,Food & Beverage,Debit Card,Jaipur,10-12-2024 18:18,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00736,GAMING ARCADE,1180.71,Entertainment,Debit Card,Hyderabad,31-03-2024 21:37,gaming arcade,Entertainment,FALSE,Normal
+TXN_00737,APOLLO HOSP,1696.26,Healthcare,Net Banking,Kolkata,21-04-2024 22:57,apollo hosp,Healthcare,FALSE,Normal
+TXN_00738,Unknown Transaction,996.36,Utilities,Credit Card,Ahmedabad,26-02-2024 08:23,unknown transaction,Financial,FALSE,Normal
+TXN_00739,MEDPLUS CHEMIST 1822,729.27,Healthcare,Debit Card,Lucknow,08-07-2024 10:59,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00740,COURSERA FEE,4186.61,Education,Wallet,Ahmedabad,05-04-2024 11:04,coursera fee,Education,FALSE,Normal
+TXN_00741,Unknown Transaction,2133.81,Healthcare,Credit Card,Chennai,05-04-2024 20:06,unknown transaction,Financial,FALSE,Normal
+TXN_00742,FLIPKRT.COM 9026,3046.89,Shopping,Wallet,Kolkata,11-09-2024 21:56,flipkrtcom ,Shopping,FALSE,Normal
+TXN_00743,NYKAA BEAUTY,3828.26,Shopping,Net Banking,Hyderabad,18-08-2024 21:29,nykaa beauty,Shopping,FALSE,Normal
+TXN_00744,BSNL BILL 1797,842.46,Utilities,Debit Card,Delhi,18-11-2024 19:04,bsnl bill ,Bills,FALSE,Normal
+TXN_00745,MUTUAL FUND 3925,3921.51,Financial,UPI,Kolkata,22-12-2024 07:36,mutual fund ,Financial,FALSE,Normal
+TXN_00746,FLIPKRT.COM 8874,2636.62,Shopping,Net Banking,Chennai,16-08-2024 07:44,flipkrtcom ,Shopping,FALSE,Normal
+TXN_00747,ONLINE COURSE 3136,619.52,Education,Debit Card,Bangalore,09-09-2024 19:59,online course ,Education,FALSE,Normal
+TXN_00748,SWIGGY DELIVERY 3108,370.59,Food & Beverage,Net Banking,Mumbai,09-01-2024 10:03,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00749,INSURANCE PREMIUM 7752,2774.58,Financial,Unknown,Hyderabad,17-05-2024 18:45,insurance premium ,Bills,FALSE,Normal
+TXN_00750,AJIO FASHION 3059,3508.24,Shopping,Net Banking,Lucknow,21-12-2024 08:48,ajio fashion ,Shopping,FALSE,Normal
+TXN_00751,ZOMATO APP 8720,200.73,Food & Beverage,Debit Card,Chennai,01-04-2024 10:52,zomato app ,Food & Beverage,FALSE,Normal
+TXN_00752,AUDIBLE AUDIO 4848,392.46,Subscriptions,Wallet,Ahmedabad,11-01-2024 22:47,audible audio ,Subscriptions,FALSE,Normal
+TXN_00753,INSURANCE PREMIUM 6380,690.91,Financial,Credit Card,Kolkata,28-03-2024 09:26,insurance premium ,Bills,FALSE,Normal
+TXN_00754,INTERNET PROVIDER 2497,1254.52,Utilities,Credit Card,Delhi,24-06-2024 15:24,internet provider ,Bills,FALSE,Normal
+TXN_00755,INVESTMENT APP 5136,3623,Financial,Net Banking,Mumbai,29-11-2024 07:41,investment app ,Financial,FALSE,Normal
+TXN_00756,ADOBE CLOUD 6902,703.78,Subscriptions,UPI,Kolkata,18-09-2024 12:24,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00757,UNIQLO STORE 6390,1579.95,Uncategorized,Unknown,Kolkata,20-01-2024 13:26,uniqlo store ,Shopping,FALSE,Normal
+TXN_00758,UBER TRIP 7171,562.14,Transportation,Debit Card,Delhi,26-08-2024 10:13,uber trip ,Transport,FALSE,Normal
+TXN_00759,PETROL PUMP 12 3176,32.19,Transportation,Credit Card,Kolkata,01-09-2024 16:02,petrol pump  ,Transport,FALSE,Normal
+TXN_00760,MEDPLUS CHEMIST 2742,27493.56,Healthcare,UPI,Bangalore,23-10-2024 14:50,medplus chemist ,Healthcare,TRUE,Anomalous
+TXN_00761,ZOMATO APP,437.55,Food & Beverage,UPI,Ahmedabad,16-07-2024 19:58,zomato app,Food & Beverage,FALSE,Normal
+TXN_00762,SPOTIFY SUB,76.38,Subscriptions,Debit Card,Mumbai,02-04-2024 12:14,spotify sub,Subscriptions,FALSE,Normal
+TXN_00763,BOOK STORE 23,1886.83,Education,Credit Card,Chennai,14-06-2024 22:34,book store ,Shopping,FALSE,Normal
+TXN_00764,GAMING ARCADE,807.62,Uncategorized,Net Banking,Lucknow,26-04-2024 07:30,gaming arcade,Entertainment,FALSE,Normal
+TXN_00765,ICLOUD BACKUP 3097,479.56,Subscriptions,Debit Card,Delhi,11-06-2024 21:04,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00766,AJIO FASHION,4386.5,Shopping,Debit Card,Pune,15-07-2024 07:37,ajio fashion,Shopping,FALSE,Normal
+TXN_00767,APOLLO HOSP 3142,22834.27,Healthcare,UPI,Delhi,28-03-2024 12:19,apollo hosp ,Healthcare,TRUE,Anomalous
+TXN_00768,INTERNET PROVIDER 9405,685.06,Utilities,Wallet,Bangalore,06-07-2024 16:05,internet provider ,Bills,FALSE,Normal
+TXN_00769,NETMEDS APP 9492,2025.43,Healthcare,Wallet,Kolkata,07-07-2024 14:04,netmeds app ,Healthcare,FALSE,Normal
+TXN_00770,AUDIBLE AUDIO,83.04,Subscriptions,UPI,Kolkata,27-10-2024 14:10,audible audio,Subscriptions,FALSE,Normal
+TXN_00771,ICLOUD BACKUP 3584,160.95,Subscriptions,Debit Card,Lucknow,10-11-2024 16:46,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00772,COURSERA FEE 3314,9396.49,Education,Wallet,Lucknow,20-06-2024 23:42,coursera fee ,Education,FALSE,Normal
+TXN_00773,NYKAA BEAUTY 5264,2759.13,Shopping,Unknown,Ahmedabad,21-02-2024 19:14,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00774,ELECTRICITY BOARD 6816,1291.14,Utilities,Debit Card,Bangalore,22-04-2024 17:20,electricity board ,Bills,FALSE,Normal
+TXN_00775,INTERNET PROVIDER,1262.13,Utilities,Credit Card,Pune,10-06-2024 17:34,internet provider,Bills,FALSE,Normal
+TXN_00776,AUTO RICKSHAW 1426,306.83,Transportation,Wallet,Kolkata,14-08-2024 21:34,auto rickshaw ,Transport,FALSE,Normal
+TXN_00777,ADOBE CLOUD,128.4,Subscriptions,Net Banking,Delhi,02-05-2024 22:08,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00778,BOOKMYSHOW,729.33,Entertainment,Net Banking,Mumbai,21-11-2024 10:53,bookmyshow,Entertainment,FALSE,Normal
+TXN_00779,AMZ MKTP 1340,3037.47,Shopping,UPI,Hyderabad,09-10-2024 20:18,amz mktp ,Shopping,FALSE,Normal
+TXN_00780,AUDIBLE AUDIO 4136,338.61,Subscriptions,UPI,Kolkata,23-12-2024 15:03,audible audio ,Subscriptions,FALSE,Normal
+TXN_00781,LAKME SALON 3038,10402.97,Personal Care,Debit Card,Pune,12-08-2024 07:34,lakme salon ,Shopping,FALSE,Normal
+TXN_00782,HOTSTAR SUB 5098,1220.74,Entertainment,Wallet,Delhi,26-11-2024 14:38,hotstar sub ,Subscriptions,FALSE,Normal
+TXN_00783,SPOTIFY SUB,1226.1,Subscriptions,Unknown,Chennai,12-08-2024 15:43,spotify sub,Subscriptions,FALSE,Normal
+TXN_00784,WATER DEPT,1140.34,Utilities,UPI,Chennai,03-07-2024 10:26,water dept,Bills,FALSE,Normal
+TXN_00785,AUTO RICKSHAW XYZ539,257.63,Transportation,Debit Card,Delhi,12-08-2024 09:35,auto rickshaw xyz,Transport,FALSE,Normal
+TXN_00786,MEDPLUS CHEMIST 7872,2753.93,Healthcare,Wallet,Hyderabad,16-01-2024 18:11,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00787,OLA CAB 5421 3247,302.03,Transportation,Unknown,Kolkata,03-02-2024 16:44,ola cab  ,Transport,FALSE,Normal
+TXN_00788,LAKME SALON 2932,1270.51,Personal Care,Net Banking,Kolkata,03-01-2024 14:48,lakme salon ,Shopping,FALSE,Normal
+TXN_00789,McDONALDS 4521 7017,436.4,Food & Beverage,Credit Card,Kolkata,21-08-2024 22:11,mcdonalds  ,Food & Beverage,FALSE,Normal
+TXN_00790,APOLLO HOSP 2399,2361.92,Healthcare,Credit Card,Pune,27-04-2024 09:35,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00791,ONLINE COURSE,6998.63,Education,Net Banking,Mumbai,28-11-2024 13:51,online course,Education,FALSE,Normal
+TXN_00792,APOLLO HOSP,1815.28,Healthcare,Credit Card,Delhi,01-02-2024 10:07,apollo hosp,Healthcare,FALSE,Normal
+TXN_00793,KFC #123 8020,53.91,Food & Beverage,Credit Card,Lucknow,02-04-2024 16:08,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00794,SALON CUTS 4205,675.12,Personal Care,Credit Card,Pune,13-04-2024 20:39,salon cuts ,Shopping,FALSE,Normal
+TXN_00795,METRO CARD REF 8911,408.53,Transportation,Wallet,Ahmedabad,14-10-2024 07:12,metro card ref ,Transport,FALSE,Normal
+TXN_00796,MUTUAL FUND,6588.47,Financial,Credit Card,Hyderabad,30-06-2024 07:04,mutual fund,Financial,FALSE,Normal
+TXN_00797,BOOK STORE 23 9195,9304.54,Education,Debit Card,Delhi,06-02-2024 20:13,book store  ,Shopping,FALSE,Normal
+TXN_00798,TUITION FEES,2794.77,Education,Credit Card,Kolkata,09-07-2024 12:28,tuition fees,Education,FALSE,Normal
+TXN_00799,BSNL BILL 3608,1571.67,Utilities,Net Banking,Lucknow,07-11-2024 10:10,bsnl bill ,Bills,FALSE,Normal
+TXN_00800,McDONALDS 4521 3657,437.83,Food & Beverage,UPI,Lucknow,22-12-2024 18:41,mcdonalds  ,Food & Beverage,FALSE,Normal
+TXN_00801,MUTUAL FUND,4705.93,Financial,Wallet,Mumbai,15-01-2024 07:22,mutual fund,Financial,FALSE,Normal
+TXN_00802,MEDPLUS CHEMIST 5432,2585.62,Healthcare,Credit Card,Bangalore,24-11-2024 20:13,medplus chemist ,Healthcare,FALSE,Normal
+TXN_00803,INSURANCE PREMIUM 9830,2720.26,Financial,Wallet,Chennai,27-12-2024 08:47,insurance premium ,Bills,FALSE,Normal
+TXN_00804,UNIQLO STORE 8516,1297.41,Personal Care,Credit Card,Ahmedabad,27-01-2024 19:11,uniqlo store ,Shopping,FALSE,Normal
+TXN_00805,TUITION FEES XYZ351,6956.29,Education,Wallet,Ahmedabad,23-12-2024 23:44,tuition fees xyz,Education,FALSE,Normal
+TXN_00806,SPOTIFY SUB 3578 XYZ239,321.53,Subscriptions,Debit Card,Ahmedabad,14-11-2024 13:18,spotify sub  xyz,Subscriptions,FALSE,Normal
+TXN_00807,INVESTMENT APP 5736,115.23,Uncategorized,Debit Card,Bangalore,21-01-2024 13:39,investment app ,Financial,FALSE,Normal
+TXN_00808,JIO RECHARGE 6263,827.64,Utilities,Net Banking,Ahmedabad,03-10-2024 09:48,jio recharge ,Bills,FALSE,Normal
+TXN_00809,AUDIBLE AUDIO 6331,334.9,Subscriptions,Credit Card,Delhi,15-08-2024 21:53,audible audio ,Subscriptions,FALSE,Normal
+TXN_00810,ADOBE CLOUD 7002,282.98,Subscriptions,UPI,Bangalore,07-11-2024 22:44,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00811,AUDIBLE AUDIO 7638,458.82,Subscriptions,Wallet,Ahmedabad,25-10-2024 07:42,audible audio ,Subscriptions,FALSE,Normal
+TXN_00812,INVESTMENT APP 9897,2551.69,Financial,Unknown,Bangalore,27-07-2024 21:41,investment app ,Financial,FALSE,Normal
+TXN_00813,LAKME SALON 2706,17888.57,Personal Care,Debit Card,Lucknow,22-10-2024 20:27,lakme salon ,Shopping,FALSE,Normal
+TXN_00814,AMZ MKTP 7198,4196.48,Shopping,Unknown,Delhi,11-06-2024 08:22,amz mktp ,Shopping,FALSE,Normal
+TXN_00815,UDEMY COURSE 3148,4645.89,Education,Wallet,Bangalore,22-10-2024 22:01,udemy course ,Education,FALSE,Normal
+TXN_00816,GYM MEMBERSHIP,1226.46,Healthcare,Wallet,Jaipur,26-09-2024 14:51,gym membership,Subscriptions,FALSE,Normal
+TXN_00817,MYNTRA APP 5425,646.79,Shopping,Net Banking,Mumbai,30-08-2024 10:32,myntra app ,Shopping,FALSE,Normal
+TXN_00818,JIO RECHARGE,1210.98,Utilities,Net Banking,Jaipur,04-04-2024 22:41,jio recharge,Bills,FALSE,Normal
+TXN_00819,ICLOUD BACKUP 7910,409.44,Subscriptions,UPI,Bangalore,16-10-2024 07:35,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00820,NYKAA BEAUTY 1935,4951.02,Shopping,Debit Card,Hyderabad,10-08-2024 11:31,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00821,McDONALDS 4521,3712.66,Food & Beverage,Wallet,Delhi,18-09-2024 09:21,mcdonalds ,Food & Beverage,TRUE,Anomalous
+TXN_00822,SPA TREATMENT 2995 XYZ266,1121.07,Personal Care,UPI,Lucknow,24-02-2024 15:26,spa treatment  xyz,Healthcare,FALSE,Normal
+TXN_00823,ELECTRICITY BOARD 1378,1943.25,Utilities,Net Banking,Jaipur,02-05-2024 17:38,electricity board ,Bills,FALSE,Normal
+TXN_00824,RAPIDO BIKE 4971 XYZ631,632.36,Transportation,Wallet,Pune,12-07-2024 13:36,rapido bike  xyz,Transport,FALSE,Normal
+TXN_00825,COURSERA FEE 1169,4280.11,Education,Credit Card,Delhi,24-10-2024 09:49,coursera fee ,Education,FALSE,Normal
+TXN_00826,INVESTMENT APP,1319.87,Financial,Debit Card,Kolkata,05-01-2024 16:10,investment app,Financial,FALSE,Normal
+TXN_00827,UNIQLO STORE 6802,591.6,Personal Care,Credit Card,Jaipur,28-06-2024 23:20,uniqlo store ,Shopping,FALSE,Normal
+TXN_00828,DECATHLON SPORTS 6026,266.75,Personal Care,Credit Card,Lucknow,21-08-2024 12:52,decathlon sports ,Shopping,FALSE,Normal
+TXN_00829,BANK FEE 1613,4512.57,Financial,Debit Card,Mumbai,17-01-2024 20:07,bank fee ,Financial,FALSE,Normal
+TXN_00830,DR SHARMA CLINIC 2929,859.49,Healthcare,Debit Card,Pune,23-08-2024 18:55,dr sharma clinic ,Healthcare,FALSE,Normal
+TXN_00831,ELECTRICITY BOARD 8214,16395.91,Utilities,Credit Card,Kolkata,26-02-2024 12:04,electricity board ,Bills,TRUE,Anomalous
+TXN_00832,ADOBE CLOUD 6879,4392.05,Subscriptions,Net Banking,Chennai,11-07-2024 07:45,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00833,SKILL SHARE 5717,6520.9,Education,Debit Card,Delhi,27-07-2024 11:48,skill share ,Education,FALSE,Normal
+TXN_00834,DOMINOS PZ 6793,365.8,Food & Beverage,Net Banking,Bangalore,13-04-2024 23:14,dominos pz ,Food & Beverage,FALSE,Normal
+TXN_00835,SWIGGY DELIVERY 1379,485.01,Food & Beverage,UPI,Bangalore,22-12-2024 14:31,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00836,SWIGGY DELIVERY 8762,436.48,Food & Beverage,UPI,Pune,12-04-2024 17:14,swiggy delivery ,Food & Beverage,FALSE,Normal
+TXN_00837,BOOKMYSHOW,248.58,Entertainment,Debit Card,Hyderabad,19-03-2024 23:50,bookmyshow,Entertainment,FALSE,Normal
+TXN_00838,METRO CARD REF 9557,686.92,Transportation,Wallet,Pune,05-10-2024 19:06,metro card ref ,Transport,FALSE,Normal
+TXN_00839,COURSERA FEE XYZ995,4566.56,Education,Debit Card,Mumbai,27-02-2024 08:07,coursera fee xyz,Education,FALSE,Normal
+TXN_00840,ICLOUD BACKUP XYZ492,84.95,Subscriptions,UPI,Pune,31-08-2024 08:08,icloud backup xyz,Subscriptions,FALSE,Normal
+TXN_00841,AMZ MKTP 9912,365.25,Shopping,Net Banking,Jaipur,14-03-2024 11:10,amz mktp ,Shopping,FALSE,Normal
+TXN_00842,NYKAA BEAUTY 5862,3113.81,Shopping,Net Banking,Pune,04-02-2024 11:22,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00843,KFC #123,400.75,Food & Beverage,UPI,Bangalore,01-11-2024 23:24,kfc ,Food & Beverage,FALSE,Normal
+TXN_00844,ONLINE COURSE 3959,8558.65,Uncategorized,Wallet,Ahmedabad,17-02-2024 12:17,online course ,Education,FALSE,Normal
+TXN_00845,INVESTMENT APP 6158 XYZ970,3646.38,Financial,Net Banking,Jaipur,28-07-2024 16:28,investment app  xyz,Financial,FALSE,Normal
+TXN_00846,DR SHARMA CLINIC 3217,2784.9,Healthcare,Wallet,Lucknow,10-01-2024 08:40,dr sharma clinic ,Healthcare,FALSE,Normal
+TXN_00847,DOMINOS PZ 8152,168.82,Food & Beverage,Debit Card,Kolkata,23-06-2024 18:56,dominos pz ,Food & Beverage,FALSE,Normal
+TXN_00848,H&M STORE 45 1985,4362.11,Shopping,Net Banking,Kolkata,27-02-2024 22:10,hm store  ,Shopping,FALSE,Normal
+TXN_00849,ICLOUD BACKUP,126.06,Subscriptions,Debit Card,Chennai,27-01-2024 21:40,icloud backup,Subscriptions,FALSE,Normal
+TXN_00850,GAMING ARCADE,326.81,Entertainment,Debit Card,Ahmedabad,31-05-2024 23:08,gaming arcade,Entertainment,FALSE,Normal
+TXN_00851,ZOMATO APP,496.2,Food & Beverage,Unknown,Kolkata,07-09-2024 11:45,zomato app,Food & Beverage,FALSE,Normal
+TXN_00852,SUBWAY MRT STN,327.58,Food & Beverage,UPI,Kolkata,05-06-2024 17:24,subway mrt stn,Food & Beverage,FALSE,Normal
+TXN_00853,SALON CUTS 3034,6417.19,Personal Care,Debit Card,Kolkata,24-09-2024 13:25,salon cuts ,Shopping,FALSE,Normal
+TXN_00854,STARBKS 2933,192.09,Food & Beverage,UPI,Lucknow,31-10-2024 21:56,starbks ,Food & Beverage,FALSE,Normal
+TXN_00855,RELIANCE MKT 9872,675.58,Shopping,Credit Card,Bangalore,18-06-2024 22:29,reliance mkt ,Shopping,FALSE,Normal
+TXN_00856,TUITION FEES 6524,59025.74,Education,Wallet,Delhi,13-07-2024 20:03,tuition fees ,Education,FALSE,Normal
+TXN_00857,TUITION FEES XYZ955,2332.46,Education,UPI,Jaipur,22-03-2024 17:42,tuition fees xyz,Education,FALSE,Normal
+TXN_00858,DECATHLON SPORTS 6775,730.35,Personal Care,Credit Card,Lucknow,19-07-2024 17:27,decathlon sports ,Shopping,FALSE,Normal
+TXN_00859,MUTUAL FUND,2768.85,Financial,UPI,Delhi,03-02-2024 11:25,mutual fund,Financial,FALSE,Normal
+TXN_00860,Unknown Transaction,69.82,Food & Beverage,Wallet,Ahmedabad,22-05-2024 11:04,unknown transaction,Financial,FALSE,Normal
+TXN_00861,AIRTEL POSTPAID 3690,1256.46,Utilities,Debit Card,Kolkata,28-09-2024 09:40,airtel postpaid ,Bills,FALSE,Normal
+TXN_00862,DECATHLON SPORTS 5458,391.24,Personal Care,Credit Card,Jaipur,05-09-2024 23:18,decathlon sports ,Shopping,FALSE,Normal
+TXN_00863,MUTUAL FUND 1987,1786.17,Financial,Credit Card,Lucknow,16-05-2024 10:59,mutual fund ,Financial,FALSE,Normal
+TXN_00864,AUDIBLE AUDIO,90.71,Subscriptions,Net Banking,Delhi,11-01-2024 14:07,audible audio,Subscriptions,FALSE,Normal
+TXN_00865,APOLLO PHARMACY,23047.12,Healthcare,Credit Card,Mumbai,26-05-2024 13:19,apollo pharmacy,Healthcare,TRUE,Anomalous
+TXN_00866,H&M STORE 45 2993,4055.76,Shopping,Debit Card,Chennai,09-10-2024 17:16,hm store  ,Shopping,FALSE,Normal
+TXN_00867,KFC #123,470.05,Food & Beverage,Debit Card,Bangalore,24-02-2024 13:07,kfc ,Food & Beverage,FALSE,Normal
+TXN_00868,UBER TRIP 4650,651.73,Transportation,Credit Card,Delhi,13-07-2024 21:49,uber trip ,Transport,FALSE,Normal
+TXN_00869,UBER TRIP 2079,84.25,Transportation,Unknown,Bangalore,28-08-2024 16:45,uber trip ,Transport,FALSE,Normal
+TXN_00870,McDONALDS 4521,283.63,Food & Beverage,Debit Card,Chennai,29-08-2024 12:05,mcdonalds ,Food & Beverage,FALSE,Normal
+TXN_00871,RAPIDO BIKE,579.83,Transportation,Net Banking,Lucknow,06-02-2024 22:09,rapido bike,Transport,FALSE,Normal
+TXN_00872,SPA TREATMENT 4824,1536.59,Personal Care,UPI,Hyderabad,27-04-2024 13:52,spa treatment ,Healthcare,FALSE,Normal
+TXN_00873,NYKAA BEAUTY,3975.42,Shopping,UPI,Chennai,01-01-2024 14:42,nykaa beauty,Shopping,FALSE,Normal
+TXN_00874,INVESTMENT APP 9551 XYZ675,4199.68,Financial,UPI,Chennai,04-03-2024 22:33,investment app  xyz,Financial,FALSE,Normal
+TXN_00875,NETFLIX SUBS 3359,1256.67,Entertainment,Credit Card,Hyderabad,20-09-2024 11:33,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00876,BANK FEE,4377.59,Financial,Debit Card,Delhi,26-08-2024 17:01,bank fee,Financial,FALSE,Normal
+TXN_00877,MUTUAL FUND 1304,842.88,Financial,Credit Card,Ahmedabad,29-12-2024 11:04,mutual fund ,Financial,FALSE,Normal
+TXN_00878,MYNTRA APP,2290.71,Shopping,Credit Card,Lucknow,04-04-2024 22:09,myntra app,Shopping,FALSE,Normal
+TXN_00879,METRO CARD REF,32.7,Transportation,Net Banking,Hyderabad,10-08-2024 13:31,metro card ref,Transport,FALSE,Normal
+TXN_00880,YOUTUBE PREMIUM 6053,766.26,Entertainment,Debit Card,Chennai,14-05-2024 07:13,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00881,MYNTRA APP 2920,2395.75,Uncategorized,Wallet,Delhi,10-11-2024 18:19,myntra app ,Shopping,FALSE,Normal
+TXN_00882,AMZ MKTP 2849,523.21,Shopping,Debit Card,Jaipur,23-08-2024 11:15,amz mktp ,Shopping,FALSE,Normal
+TXN_00883,ELECTRICITY BOARD 5424,1806.57,Utilities,Wallet,Lucknow,12-01-2024 18:09,electricity board ,Bills,FALSE,Normal
+TXN_00884,OLA CAB 5421 7291,638.22,Transportation,Net Banking,Ahmedabad,11-11-2024 20:35,ola cab  ,Transport,FALSE,Normal
+TXN_00885,ZOMATO APP,269.58,Food & Beverage,Credit Card,Chennai,10-06-2024 20:48,zomato app,Food & Beverage,FALSE,Normal
+TXN_00886,PRIME VIDEO 1500,7001.5,Entertainment,Net Banking,Pune,26-08-2024 22:15,prime video ,Subscriptions,FALSE,Normal
+TXN_00887,INVESTMENT APP 2408,1058.99,Financial,Net Banking,Jaipur,30-08-2024 17:45,investment app ,Financial,FALSE,Normal
+TXN_00888,DR SHARMA CLINIC,2638.85,Healthcare,Credit Card,Chennai,30-11-2024 13:57,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00889,UNIQLO STORE 5691,1092.23,Personal Care,Net Banking,Chennai,19-08-2024 11:26,uniqlo store ,Shopping,FALSE,Normal
+TXN_00890,INSURANCE PREMIUM 6445,908.95,Financial,Debit Card,Hyderabad,13-09-2024 11:11,insurance premium ,Bills,FALSE,Normal
+TXN_00891,SPA TREATMENT 1497,205.42,Personal Care,UPI,Mumbai,09-11-2024 07:18,spa treatment ,Healthcare,FALSE,Normal
+TXN_00892,DR SHARMA CLINIC 2752,2773.32,Healthcare,Wallet,Lucknow,25-05-2024 20:53,dr sharma clinic ,Healthcare,FALSE,Normal
+TXN_00893,AUDIBLE AUDIO 2779,56.46,Subscriptions,Debit Card,Delhi,04-10-2024 14:15,audible audio ,Subscriptions,FALSE,Normal
+TXN_00894,WATER DEPT 8121,1273.92,Utilities,UPI,Ahmedabad,28-07-2024 09:37,water dept ,Bills,FALSE,Normal
+TXN_00895,ADOBE CLOUD 5057,255.71,Subscriptions,Wallet,Kolkata,06-09-2024 11:26,adobe cloud ,Subscriptions,FALSE,Normal
+TXN_00896,PRIME VIDEO 2656,152.54,Entertainment,Debit Card,Mumbai,19-08-2024 17:43,prime video ,Subscriptions,FALSE,Normal
+TXN_00897,SPOTIFY SUB 9957,290.93,Subscriptions,Net Banking,Jaipur,31-10-2024 22:14,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00898,ADOBE CLOUD,235.27,Subscriptions,Credit Card,Hyderabad,27-04-2024 13:50,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00899,KFC #123,254.61,Food & Beverage,UPI,Jaipur,18-10-2024 08:33,kfc ,Food & Beverage,FALSE,Normal
+TXN_00900,AUDIBLE AUDIO 5986,479.56,Subscriptions,UPI,Mumbai,15-08-2024 19:33,audible audio ,Subscriptions,FALSE,Normal
+TXN_00901,AIRTEL POSTPAID 8814,1769.07,Utilities,Net Banking,Delhi,03-04-2024 17:26,airtel postpaid ,Bills,FALSE,Normal
+TXN_00902,SPA TREATMENT 4408,1585.36,Personal Care,Debit Card,Lucknow,23-10-2024 23:43,spa treatment ,Healthcare,FALSE,Normal
+TXN_00903,SWIGGY DELIVERY,3560.68,Food & Beverage,Net Banking,Mumbai,21-08-2024 15:59,swiggy delivery,Food & Beverage,TRUE,Anomalous
+TXN_00904,SPA TREATMENT,639.63,Personal Care,Net Banking,Chennai,26-10-2024 22:22,spa treatment,Healthcare,FALSE,Normal
+TXN_00905,OLA CAB 5421 2535,4467.29,Transportation,Net Banking,Hyderabad,16-03-2024 08:07,ola cab  ,Transport,FALSE,Normal
+TXN_00906,SALON CUTS 4903,480.05,Personal Care,Wallet,Pune,02-08-2024 13:00,salon cuts ,Shopping,FALSE,Normal
+TXN_00907,YOUTUBE PREMIUM 3083,9267.67,Entertainment,Debit Card,Lucknow,15-05-2024 19:01,youtube premium ,Subscriptions,TRUE,Anomalous
+TXN_00908,UBER TRIP,138.75,Transportation,Credit Card,Chennai,04-09-2024 11:53,uber trip,Transport,FALSE,Normal
+TXN_00909,SPOTIFY SUB 1992 XYZ976,131.05,Subscriptions,Net Banking,Ahmedabad,17-03-2024 08:16,spotify sub  xyz,Subscriptions,FALSE,Normal
+TXN_00910,INVESTMENT APP 6058,1036.81,Financial,Credit Card,Ahmedabad,13-10-2024 07:10,investment app ,Financial,FALSE,Normal
+TXN_00911,APOLLO PHARMACY 2409,682.5,Healthcare,Debit Card,Kolkata,22-10-2024 07:54,apollo pharmacy ,Healthcare,FALSE,Normal
+TXN_00912,BSNL BILL,1376.88,Utilities,Wallet,Chennai,08-12-2024 15:55,bsnl bill,Bills,FALSE,Normal
+TXN_00913,TUITION FEES 7091,9898.32,Education,UPI,Delhi,19-07-2024 13:13,tuition fees ,Education,FALSE,Normal
+TXN_00914,RELIANCE MKT 9758,4270.66,Shopping,Debit Card,Pune,19-12-2024 16:35,reliance mkt ,Shopping,FALSE,Normal
+TXN_00915,GAMING ARCADE 8683,1369.58,Entertainment,UPI,Bangalore,04-10-2024 07:38,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00916,NETFLIX SUBS,11570.54,Entertainment,UPI,Kolkata,19-06-2024 12:02,netflix subs,Subscriptions,TRUE,Anomalous
+TXN_00917,INVESTMENT APP 1327,947.53,Financial,UPI,Chennai,09-03-2024 18:50,investment app ,Financial,FALSE,Normal
+TXN_00918,COURSERA FEE 4793,6026.55,Education,Credit Card,Pune,30-05-2024 18:44,coursera fee ,Education,FALSE,Normal
+TXN_00919,LAKME SALON 7449,1055.32,Personal Care,Net Banking,Lucknow,09-05-2024 10:49,lakme salon ,Shopping,FALSE,Normal
+TXN_00920,SALON CUTS 9411,251.7,Personal Care,Debit Card,Delhi,10-07-2024 14:11,salon cuts ,Shopping,FALSE,Normal
+TXN_00921,ICLOUD BACKUP 7971,351.55,Subscriptions,Credit Card,Jaipur,03-10-2024 21:00,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00922,AMZ MKTP,23611.2,Shopping,Debit Card,Kolkata,23-09-2024 07:05,amz mktp,Shopping,FALSE,Normal
+TXN_00923,RAPIDO BIKE,401.18,Transportation,Wallet,Lucknow,01-05-2024 09:09,rapido bike,Transport,FALSE,Normal
+TXN_00924,DECATHLON SPORTS 3737,14853.94,Personal Care,Wallet,Delhi,07-08-2024 16:33,decathlon sports ,Shopping,FALSE,Normal
+TXN_00925,ZOMATO APP,136.82,Food & Beverage,Debit Card,Jaipur,27-08-2024 11:05,zomato app,Food & Beverage,FALSE,Normal
+TXN_00926,INTERNET PROVIDER 7771,1710.98,Utilities,UPI,Lucknow,05-02-2024 13:34,internet provider ,Bills,FALSE,Normal
+TXN_00927,FLIPKRT.COM,2401.56,Shopping,Debit Card,Pune,21-02-2024 07:17,flipkrtcom,Shopping,FALSE,Normal
+TXN_00928,FLIPKRT.COM 3115,29341.63,Shopping,Unknown,Mumbai,29-01-2024 23:18,flipkrtcom ,Shopping,TRUE,Anomalous
+TXN_00929,BANK FEE 8165,1840.98,Financial,Debit Card,Delhi,23-06-2024 13:21,bank fee ,Financial,FALSE,Normal
+TXN_00930,GYM MEMBERSHIP,748.85,Healthcare,Credit Card,Delhi,08-03-2024 10:37,gym membership,Subscriptions,FALSE,Normal
+TXN_00931,HOTSTAR SUB,12043.05,Entertainment,Wallet,Delhi,31-01-2024 16:01,hotstar sub,Subscriptions,TRUE,Anomalous
+TXN_00932,GYM MEMBERSHIP,1127.11,Healthcare,Net Banking,Chennai,18-03-2024 22:06,gym membership,Subscriptions,FALSE,Normal
+TXN_00933,BANK FEE 2660,2270.35,Financial,Wallet,Delhi,23-01-2024 22:05,bank fee ,Financial,FALSE,Normal
+TXN_00934,DOMINOS PZ,61.68,Food & Beverage,Debit Card,Kolkata,29-07-2024 11:30,dominos pz,Food & Beverage,FALSE,Normal
+TXN_00935,AJIO FASHION 3033,520.97,Shopping,Net Banking,Jaipur,18-03-2024 15:46,ajio fashion ,Shopping,FALSE,Normal
+TXN_00936,JIO RECHARGE,1148.05,Utilities,Credit Card,Hyderabad,20-03-2024 16:56,jio recharge,Bills,FALSE,Normal
+TXN_00937,BSNL BILL 4702,1739.3,Utilities,Debit Card,Jaipur,15-05-2024 21:21,bsnl bill ,Bills,FALSE,Normal
+TXN_00938,FLIPKRT.COM 6598,498.41,Shopping,Net Banking,Chennai,16-05-2024 19:50,flipkrtcom ,Shopping,FALSE,Normal
+TXN_00939,UBER TRIP 9562,482.76,Transportation,Wallet,Bangalore,28-02-2024 09:05,uber trip ,Transport,FALSE,Normal
+TXN_00940,BOOKMYSHOW 7596,489.48,Entertainment,Credit Card,Lucknow,17-02-2024 09:03,bookmyshow ,Entertainment,FALSE,Normal
+TXN_00941,BANK FEE 1765,3009.55,Financial,Wallet,Mumbai,29-01-2024 11:05,bank fee ,Financial,FALSE,Normal
+TXN_00942,NETFLIX SUBS 5072,476.28,Entertainment,Debit Card,Delhi,18-11-2024 23:05,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00943,METRO CARD REF 8311,494.8,Transportation,Net Banking,Mumbai,13-11-2024 07:13,metro card ref ,Transport,FALSE,Normal
+TXN_00944,GAMING ARCADE 2775,555.4,Entertainment,Credit Card,Jaipur,26-01-2024 16:37,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00945,SALON CUTS 9444,1280.86,Personal Care,Credit Card,Chennai,26-02-2024 07:17,salon cuts ,Shopping,FALSE,Normal
+TXN_00946,INVESTMENT APP 5598,4702.74,Financial,Wallet,Chennai,10-07-2024 07:13,investment app ,Financial,FALSE,Normal
+TXN_00947,NETFLIX SUBS,507.8,Entertainment,Debit Card,Bangalore,01-01-2024 17:05,netflix subs,Subscriptions,FALSE,Normal
+TXN_00948,NETFLIX SUBS 2292,1017.33,Entertainment,UPI,Mumbai,16-03-2024 15:58,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00949,APOLLO PHARMACY,2059.62,Healthcare,Wallet,Chennai,15-12-2024 19:32,apollo pharmacy,Healthcare,FALSE,Normal
+TXN_00950,ELECTRICITY BOARD 6255,1945.66,Utilities,UPI,Mumbai,06-04-2024 15:04,electricity board ,Bills,FALSE,Normal
+TXN_00951,AMZ MKTP 8163,1487.75,Shopping,UPI,Jaipur,13-12-2024 13:28,amz mktp ,Shopping,FALSE,Normal
+TXN_00952,UBER TRIP,232.77,Transportation,Credit Card,Ahmedabad,30-07-2024 15:08,uber trip,Transport,FALSE,Normal
+TXN_00953,ICLOUD BACKUP 1931,488,Subscriptions,Wallet,Mumbai,20-04-2024 12:49,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00954,BOOKMYSHOW 9690,907.22,Entertainment,Net Banking,Kolkata,01-01-2024 19:09,bookmyshow ,Entertainment,FALSE,Normal
+TXN_00955,ADOBE CLOUD,248.78,Subscriptions,UPI,Jaipur,08-12-2024 17:47,adobe cloud,Subscriptions,FALSE,Normal
+TXN_00956,INVESTMENT APP,3491.24,Financial,Debit Card,Delhi,15-04-2024 23:41,investment app,Financial,FALSE,Normal
+TXN_00957,SPOTIFY SUB 6898,426.17,Subscriptions,UPI,Lucknow,18-06-2024 20:09,spotify sub ,Subscriptions,FALSE,Normal
+TXN_00958,AIRTEL POSTPAID 1919,836.06,Utilities,Credit Card,Bangalore,18-07-2024 18:07,airtel postpaid ,Bills,FALSE,Normal
+TXN_00959,FLIPKRT.COM,4457.38,Shopping,UPI,Hyderabad,29-02-2024 07:18,flipkrtcom,Shopping,FALSE,Normal
+TXN_00960,NETFLIX SUBS 1937,747.04,Entertainment,Wallet,Ahmedabad,26-10-2024 19:51,netflix subs ,Subscriptions,FALSE,Normal
+TXN_00961,BSNL BILL 2876,1144.29,Utilities,Debit Card,Lucknow,30-08-2024 09:48,bsnl bill ,Bills,FALSE,Normal
+TXN_00962,MEDPLUS CHEMIST XYZ557,684.66,Healthcare,Debit Card,Kolkata,23-10-2024 22:42,medplus chemist xyz,Healthcare,FALSE,Normal
+TXN_00963,APOLLO HOSP 7854,15466.04,Healthcare,Debit Card,Jaipur,16-10-2024 18:19,apollo hosp ,Healthcare,FALSE,Normal
+TXN_00964,NETMEDS APP 5182,2200.14,Healthcare,Debit Card,Chennai,14-07-2024 08:26,netmeds app ,Healthcare,FALSE,Normal
+TXN_00965,COURSERA FEE 6832,4987.24,Education,Net Banking,Lucknow,30-10-2024 14:01,coursera fee ,Education,FALSE,Normal
+TXN_00966,GAMING ARCADE,531.05,Entertainment,Debit Card,Kolkata,12-11-2024 23:12,gaming arcade,Entertainment,FALSE,Normal
+TXN_00967,SPA TREATMENT,1821.64,Personal Care,Debit Card,Ahmedabad,04-04-2024 22:27,spa treatment,Healthcare,FALSE,Normal
+TXN_00968,BSNL BILL,958.09,Utilities,UPI,Pune,07-03-2024 08:19,bsnl bill,Bills,FALSE,Normal
+TXN_00969,METRO CARD REF 8045,744.87,Transportation,Debit Card,Hyderabad,21-12-2024 12:03,metro card ref ,Transport,FALSE,Normal
+TXN_00970,ICLOUD BACKUP 5708,337.55,Subscriptions,Debit Card,Pune,29-03-2024 12:23,icloud backup ,Subscriptions,FALSE,Normal
+TXN_00971,UDEMY COURSE 6566 XYZ506,5014.93,Education,Credit Card,Hyderabad,26-02-2024 19:52,udemy course  xyz,Education,FALSE,Normal
+TXN_00972,SUBWAY MRT STN 4965 XYZ885,2439.32,Food & Beverage,Net Banking,Lucknow,24-02-2024 18:47,subway mrt stn  xyz,Food & Beverage,FALSE,Normal
+TXN_00973,DR SHARMA CLINIC,2322.86,Healthcare,Net Banking,Mumbai,08-05-2024 07:10,dr sharma clinic,Healthcare,FALSE,Normal
+TXN_00974,GAMING ARCADE 8853,1237.85,Entertainment,Unknown,Lucknow,04-12-2024 11:07,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00975,ONLINE COURSE 2546,4390.13,Education,Net Banking,Delhi,24-03-2024 13:10,online course ,Education,FALSE,Normal
+TXN_00976,GAMING ARCADE 5597,518.33,Entertainment,Unknown,Hyderabad,17-01-2024 07:16,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00977,NYKAA BEAUTY 5265,3313.82,Shopping,Debit Card,Bangalore,04-02-2024 19:09,nykaa beauty ,Shopping,FALSE,Normal
+TXN_00978,SKILL SHARE 6582,1819.3,Education,Wallet,Ahmedabad,09-09-2024 20:38,skill share ,Education,FALSE,Normal
+TXN_00979,DECATHLON SPORTS 7514,1310.51,Personal Care,UPI,Chennai,12-01-2024 15:33,decathlon sports ,Shopping,FALSE,Normal
+TXN_00980,METRO CARD REF,522.58,Transportation,Debit Card,Hyderabad,18-04-2024 15:47,metro card ref,Transport,FALSE,Normal
+TXN_00981,YOUTUBE PREMIUM 3231,1306.8,Entertainment,Credit Card,Mumbai,23-04-2024 16:48,youtube premium ,Subscriptions,FALSE,Normal
+TXN_00982,ONLINE COURSE,5925.49,Education,Credit Card,Chennai,16-07-2024 16:21,online course,Education,FALSE,Normal
+TXN_00983,ONLINE COURSE 5631,2084.12,Education,Wallet,Mumbai,13-07-2024 07:43,online course ,Education,FALSE,Normal
+TXN_00984,RELIANCE MKT 7623,4496.13,Shopping,UPI,Kolkata,20-05-2024 08:07,reliance mkt ,Shopping,FALSE,Normal
+TXN_00985,INSURANCE PREMIUM 8655,4108.6,Financial,Net Banking,Chennai,23-02-2024 22:15,insurance premium ,Bills,FALSE,Normal
+TXN_00986,HOTSTAR SUB,1250.19,Entertainment,Wallet,Chennai,25-02-2024 13:58,hotstar sub,Subscriptions,FALSE,Normal
+TXN_00987,INTERNET PROVIDER 7817,13233.02,Utilities,Wallet,Jaipur,28-08-2024 15:10,internet provider ,Bills,TRUE,Anomalous
+TXN_00988,OLA CAB 5421 5417,133.06,Transportation,Wallet,Lucknow,21-12-2024 11:38,ola cab  ,Transport,FALSE,Normal
+TXN_00989,UNIQLO STORE,1043.35,Personal Care,Credit Card,Jaipur,23-07-2024 17:16,uniqlo store,Shopping,FALSE,Normal
+TXN_00990,ELECTRICITY BOARD 4214,5928.64,Utilities,Net Banking,Bangalore,31-10-2024 14:52,electricity board ,Bills,FALSE,Normal
+TXN_00991,UNIQLO STORE 6734,846.41,Personal Care,Net Banking,Delhi,11-11-2024 07:11,uniqlo store ,Shopping,FALSE,Normal
+TXN_00992,INVESTMENT APP 3185,4200.57,Financial,Credit Card,Jaipur,22-02-2024 10:57,investment app ,Financial,FALSE,Normal
+TXN_00993,INVESTMENT APP,3778.03,Financial,Wallet,Delhi,15-09-2024 08:10,investment app,Financial,FALSE,Normal
+TXN_00994,KFC #123 9181,414.86,Food & Beverage,Debit Card,Kolkata,11-02-2024 17:18,kfc  ,Food & Beverage,FALSE,Normal
+TXN_00995,SKILL SHARE 8596,2287.85,Education,UPI,Pune,15-10-2024 21:16,skill share ,Education,FALSE,Normal
+TXN_00996,INSURANCE PREMIUM 8095,4183.37,Financial,Credit Card,Pune,27-11-2024 09:27,insurance premium ,Bills,FALSE,Normal
+TXN_00997,GAMING ARCADE 1355,473.74,Entertainment,Credit Card,Bangalore,14-10-2024 18:36,gaming arcade ,Entertainment,FALSE,Normal
+TXN_00998,INSURANCE PREMIUM 3188,392.39,Financial,Credit Card,Hyderabad,30-05-2024 10:57,insurance premium ,Bills,FALSE,Normal
+TXN_00999,INSURANCE PREMIUM 7158,3367.19,Financial,Wallet,Ahmedabad,15-12-2024 14:36,insurance premium ,Bills,FALSE,Normal
+TXN_01000,ZOMATO APP,171.44,Food & Beverage,Debit Card,Chennai,04-05-2024 07:35,zomato app,Food & Beverage,FALSE,Normal
