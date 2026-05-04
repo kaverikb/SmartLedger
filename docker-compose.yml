@@ -15,11 +15,6 @@ The application is designed to be deployed using a containerized approach to ens
 
 * Docker Compose is used to define and manage multiple containers.
 * It allows both frontend and backend services to run together with a single command.
-* It handles:
-
-  * Port mapping (e.g., backend on 8000, frontend on 3000)
-  * Environment variable injection (API keys, configs)
-  * Inter-service communication
 
 ### 3. Cloud Deployment Strategy
 
